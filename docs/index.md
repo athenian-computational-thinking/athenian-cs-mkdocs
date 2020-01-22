@@ -1,4 +1,4 @@
-# Athenian CS Home 
+# Athenian Computer Science Home 
 
 ## Classes
 
