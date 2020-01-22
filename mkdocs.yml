@@ -1,14 +1,18 @@
-site_name: Athenian FRC Robotics
+site_name: Athenian CS
 site_url: https://www.athenian-robotics.org
-site_description: Athenian FRC Robotics Documentation
-site_author: Athenian FRC Robotics Team
+site_description: Athenian CS Documentation
+site_author: Athenian CS Team
 
 repo_url: https://github.com/athenian-computational-thinking/athenian-cs-mkdocs
-repo_name: 'GitHub Home'
+repo_name: 'Athenian CS Home'
 
 nav:
   - Home: index.md
-  - Classes: classes.md
+  - Classes:
+      - Computational Thinking: ct.md
+      - Intro to CS: intro.md
+      - APCS: apcs.md
+      - Data Structures and Algorithms: datastructures.md
   - Github Repos:
       - FRC Robotics: https://github.com/athenian-robotics
       - Programming Tutorials: https://github.com/athenian-programming

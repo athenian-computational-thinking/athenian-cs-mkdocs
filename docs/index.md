@@ -2,7 +2,7 @@
 
 ## Classes
 
-* Computation Thinking
-* Intro to CS
-* APCS
-* Data Structures and Algorithms
+* [Computation Thinking](./ct)
+* [Intro to CS](./intro)
+* [APCS](./apcs)
+* [Data Structures and Algorithms](./datastructures)
