@@ -57,5 +57,5 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
-google_analytics: ['G-Z6YBNZS12K', 'auto']
+google_analytics: ['UA-156755533-1', 'auto']
 
