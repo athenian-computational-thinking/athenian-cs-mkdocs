@@ -13,16 +13,19 @@ nav:
       - Intro to CS: intro.md
       - APCS: apcs.md
       - Data Structures and Algorithms: datastructures.md
-  - Other Athenian Repos:
-      - Programming Tutorials: https://github.com/athenian-programming
-      - Athenian FLL: https://github.com/athenian-fll/athenian-fll.github.io
-  - Games:
-      - Battlesnake: battlesnake.md
   - Tutorials:
       - Vim: vim.md
       - Unix shell: shell.md
+  - Games:
+      - Battlesnake: battlesnake.md
+      - CodinGame: codingame.md
+  - Hour of Code: hoc.md
   - References:
       - MkDocs: mkdocs.md
+  - Athenian Websites:
+      - Programming Tutorials: https://github.com/athenian-programming
+      - Athenian FLL: https://www.athenian-fll.org
+      - Athenian FRC: https://www.athenian-robotics.org
 
 
 theme:
