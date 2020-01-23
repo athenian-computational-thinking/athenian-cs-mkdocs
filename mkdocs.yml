@@ -16,6 +16,12 @@ nav:
   - Other Athenian Repos:
       - Programming Tutorials: https://github.com/athenian-programming
       - Athenian FLL: https://github.com/athenian-fll/athenian-fll.github.io
+  - Tutorials:
+      Vim: vim.md
+      Unix shell: shell.md
+  - References:
+      MkDocs: mkdocs.md
+
 
 theme:
   name: 'material'
