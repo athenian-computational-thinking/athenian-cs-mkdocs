@@ -21,12 +21,5 @@
 * [AddisCoder Curriculum](https://www.addiscoder.com/syllabus/2018/)
 * [Gallery of Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
-## PythonAnywhere
-* [PythonAnywhere Homepage](https://www.pythonanywhere.com)
-
-## repl.it
-* [repl.it Homepage](https://repl.it)
-* [repl.it Exercises](https://www.athenian-robotics.org/python-basics/)
-
 
 
