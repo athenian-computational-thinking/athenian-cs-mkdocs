@@ -13,9 +13,9 @@ nav:
       - Intro to CS: intro.md
       - APCS: apcs.md
       - Data Structures and Algorithms: datastructures.md
-  - Github Repos:
-      - FRC Robotics: https://github.com/athenian-robotics
+  - Other Athenian Repos:
       - Programming Tutorials: https://github.com/athenian-programming
+      - Athenian FLL: https://github.com/athenian-fll/athenian-fll.github.io
 
 theme:
   name: 'material'
