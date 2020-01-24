@@ -1,11 +1,15 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/af5a7ad9-fafc-461d-bcbb-3eab47fb7565/deploy-status)](https://app.netlify.com/sites/athenian-cs/deploys)
 
-## Setup
-1. Clone the [athenian-cs-mkdocs](https://github.com/athenian-computational-thinking/athenian-cs-mkdocs) repo.
-2. Install [MkDocs](https://www.mkdocs.org).
-3. Install the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
-4. Install the [Pygments](http://pygments.org/) syntax highlighter.
-5. Install the [PyMdown Extensions](https://facelessuser.github.io/pymdown-extensions/) Markdown extensions.
+## Setup for local editing
+* Clone the [athenian-cs-mkdocs](https://github.com/athenian-computational-thinking/athenian-cs-mkdocs) repo with: 
+```
+git clone git@github.com:athenian-computational-thinking/athenian-cs-mkdocs.git
+```
+
+* Install [MkDocs](https://www.mkdocs.org).
+* Install the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
+* Install the [Pygments](http://pygments.org/) syntax highlighter.
+* Install the [PyMdown Extensions](https://facelessuser.github.io/pymdown-extensions/) Markdown extensions.
 
 
 ## Makefile Targets
@@ -15,6 +19,6 @@
 | `make clean`          | Delete site/                                  |
 | `make server`         | Start the live-reloading docs server          |
 
-## Additional Athenian GitHub Organizations  
-* [Athenian Programming](https://github.com/athenian-programming)
-* [Athenian FLL](http://athenian-fll.org)
+## Additional Athenian Website Repos  
+* [Athenian Programming](https://github.com/athenian-robotics/athenian-robotics-mkdocs)
+* [Athenian FLL](https://github.com/athenian-fll/athenian-fll-mkdocs)
