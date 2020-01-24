@@ -21,7 +21,7 @@
 * [CodinGame](https://www.codingame.com)
 
 ## Python Resources
-* [Learning Python](../learning-python/)
+* [Learning Python](/learning-python/)
 
 ## Programming Competitions
 * [Hacker Rank](https://www.hackerrank.com)
