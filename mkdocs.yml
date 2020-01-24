@@ -8,7 +8,9 @@ repo_name: 'Athenian CS Home'
 
 nav:
   - Home: index.md
-  - Classes:
+  - Middle School Classes:
+      - CoderZ: coderz.md
+  - Upper School Classes:
       - Computational Thinking: ct.md
       - Intro to CS: intro.md
       - APCS: apcs.md
@@ -21,12 +23,16 @@ nav:
       - CodinGame: codingame.md
   - Hour of Code: hoc.md
   - Software:
+      - IDEs:
+          - VSCode: https://code.visualstudio.com/download
+          - IntelliJ: https://www.jetbrains.com/idea/download/
+          - PyCharm: https://www.jetbrains.com/pycharm/download
       - Jupyter Notebooks: jupyter.md
       - Jupyter Options: jupyter-options.md
       - MkDocs: mkdocs.md
   - Hardware:
       - Circuit Playground: cpx.md
-      - Crickit/CPX and CircuitPython: cricket.md
+      - Crickit/CPX: cricket.md
   - Athenian Websites:
       - Programming Tutorials: https://github.com/athenian-programming
       - Athenian FLL: https://www.athenian-fll.org
