@@ -25,6 +25,7 @@ nav:
       - Jupyter: jupyter.md
       - Jupyter Options: jupyter-options.md
       - MkDocs: mkdocs.md
+      - Markdown: markdown.md
   - Hardware:
       - Circuit Playground: cpx.md
       - Crickit/CPX: cricket.md
