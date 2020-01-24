@@ -12,21 +12,30 @@ nav:
   - Tutorials:
       - Vim: vim.md
       - Unix shell: shell.md
-  - Games:
+  - Coding Games:
       - Battlesnake: battlesnake.md
       - CodinGame: codingame.md
-  - Hour of Code: hoc.md
+  - Languages:
+      - Java: java.md
   - Software:
       - IDEs:
           - VSCode: https://code.visualstudio.com/download
           - IntelliJ: https://www.jetbrains.com/idea/download/
           - PyCharm: https://www.jetbrains.com/pycharm/download
-      - Jupyter Notebooks: jupyter.md
+      - Jupyter: jupyter.md
       - Jupyter Options: jupyter-options.md
       - MkDocs: mkdocs.md
   - Hardware:
       - Circuit Playground: cpx.md
       - Crickit/CPX: cricket.md
+  - Online Curriculum:
+      - Nand2Tetris: nand2tetris.md
+      - Harvard's CS50: https://ap.cs50.net
+      - Coding Resources: coding-resources.md
+  - Teaching CS: teaching.md
+  - Advice: advice.md
+  - Interesting: interesting.md
+  - Hour of Code: hoc.md
   - Athenian Websites:
       - Programming Tutorials: https://github.com/athenian-programming
       - Athenian FLL: https://www.athenian-fll.org

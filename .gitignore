@@ -1,4 +1,5 @@
 site
+.vscode
 .idea
 .site
 .DS_Store
