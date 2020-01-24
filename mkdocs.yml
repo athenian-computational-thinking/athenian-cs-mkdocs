@@ -8,13 +8,14 @@ repo_name: 'Athenian CS Home'
 
 nav:
   - Home: index.md
-  - Middle School Classes:
-      - CoderZ: coderz.md
-  - Upper School Classes:
-      - Computational Thinking: ct.md
-      - Intro to CS: intro.md
-      - APCS: apcs.md
-      - Data Structures and Algorithms: datastructures.md
+  - Classes:
+    - Middle School:
+        - CoderZ: coderz.md
+    - Upper School:
+        - Computational Thinking: ct.md
+        - Intro to CS: intro.md
+        - APCS: apcs.md
+        - Data Structures and Algorithms: datastructures.md
   - Tutorials:
       - Vim: vim.md
       - Unix shell: shell.md
