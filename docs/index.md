@@ -1,6 +1,4 @@
-# Athenian Computer Science  
-
-Welcome to [The Athenian School](https://www.athenian.org) Computer Science Website
+# [The Athenian School](https://www.athenian.org) Computer Science  
 
 ## Middle School Classes
 * [CoderZ](./coderz)
