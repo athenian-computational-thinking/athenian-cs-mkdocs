@@ -22,6 +22,7 @@ nav:
           - VSCode: https://code.visualstudio.com/download
           - IntelliJ: https://www.jetbrains.com/idea/download/
           - PyCharm: https://www.jetbrains.com/pycharm/download
+      - Colab: colab.md
       - Jupyter: jupyter.md
       - Jupyter Options: jupyter-options.md
       - MkDocs: mkdocs.md
