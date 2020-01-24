@@ -1,11 +1,3 @@
-site_name: Athenian Computer Science
-site_url: https://www.athenian-cs.org
-site_description: Athenian CS Documentation
-site_author: Athenian CS Team
-
-repo_url: https://github.com/athenian-computational-thinking/athenian-cs-mkdocs
-repo_name: 'Athenian CS Home'
-
 nav:
   - Home: index.md
   - Classes:
@@ -39,7 +31,6 @@ nav:
       - Programming Tutorials: https://github.com/athenian-programming
       - Athenian FLL: https://www.athenian-fll.org
       - Athenian FRC: https://www.athenian-robotics.org
-
 
 theme:
   name: 'material'
@@ -83,3 +74,10 @@ markdown_extensions:
 
 google_analytics: ['UA-156755533-1', 'auto']
 
+site_name: Athenian Computer Science
+site_url: https://www.athenian-cs.org
+site_description: Athenian CS Documentation
+site_author: Athenian CS Team
+
+repo_url: https://github.com/athenian-computational-thinking/athenian-cs-mkdocs
+repo_name: 'Athenian CS Home'
