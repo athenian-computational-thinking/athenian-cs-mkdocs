@@ -33,10 +33,10 @@ nav:
       - Nand2Tetris: nand2tetris.md
       - Harvard's CS50: https://ap.cs50.net
       - Coding Resources: coding-resources.md
-  - Teaching CS: teaching.md
   - Advice: advice.md
   - Interesting: interesting.md
   - Hour of Code: hoc.md
+  - Teaching CS: teaching.md
   - Athenian Websites:
       - Programming Tutorials: https://github.com/athenian-programming
       - Athenian FLL: https://www.athenian-fll.org
