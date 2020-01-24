@@ -7,6 +7,6 @@
 * [Assignment 2 (Sorting)](https://classroom.github.com/a/UGmhbhYS)
 
 ## Assignments (GH approach)
-* [Assignment Invitations](https://github.com/athenian-computational-thinking/private-content/blob/master/assignment-invitations.md)
+* [Assignment Invitations](https://github.com/athenian-computational-thinking/ct-private-content/blob/master/assignment-invitations.md)
 
 Assignment descriptions can be summarized here or on protected pages.
