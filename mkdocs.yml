@@ -23,6 +23,7 @@ nav:
           - IntelliJ: https://www.jetbrains.com/idea/download/
           - PyCharm: https://www.jetbrains.com/pycharm/download
       - Colab: colab.md
+      - Git: git.md
       - Jupyter: jupyter.md
       - Jupyter Options: jupyter-options.md
       - MkDocs: mkdocs.md
