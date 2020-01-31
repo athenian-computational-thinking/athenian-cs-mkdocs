@@ -1,6 +1,7 @@
 # Interesting 
 
 ## Interesting Posts
+* [The same task in as many different programming languages as possible](https://rosettagit.org)
 * [CLI Python Tools](https://opensource.com/article/17/5/4-practical-python-libraries)
 * [How GPS Works](https://www.youtube.com/watch?v=6m0xGwkYYy0)
 * [Myo Gesture Control Armband](https://www.myo.com)
