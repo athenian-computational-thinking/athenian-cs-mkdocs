@@ -11,6 +11,7 @@
 * [The History of Unix, Rob Pike](https://www.youtube.com/watch?v=_2NI6t2r_Hs)
 * [Programming Idioms](https://www.programming-idioms.org/about#about-block-all-idioms)
 * [Float Toy](http://evanw.github.io/float-toy/)
+* [Anders Hejlsberg on Modern Compiler Construction](https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction)
 
 ## Industry Posts
 * [Evolution of a Software Engineer](https://medium.com/@bfil/evolution-of-a-software-engineer-a9f88531084)
