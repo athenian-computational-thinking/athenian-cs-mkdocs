@@ -1,14 +1,14 @@
 nav:
   - Home: index.md
   - Classes:
-    - Middle School:
-        - CoderZ: coderz.md
-        - CodeCombat: codecombat.md
     - Upper School:
         - Computational Thinking: ct.md
         - Intro to CS: intro.md
         - APCS: apcs.md
         - Data Structures and Algorithms: datastructures.md
+    - Middle School:
+        - CoderZ: coderz.md
+        - CodeCombat: codecombat.md
   - Tutorials:
       - Vim: vim.md
       - Unix shell: shell.md
