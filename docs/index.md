@@ -1,4 +1,4 @@
-# [The Athenian School](https://www.athenian.org) Computer Science  
+# [Athenian](https://www.athenian.org) Computer Science  
 
 ## Upper School Classes
 * [Computation Thinking](/ct)
