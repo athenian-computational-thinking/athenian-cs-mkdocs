@@ -11,14 +11,6 @@ nav:
         - CodeCombat: codecombat.md
     - Summer School:
         - Introduction to Programming (Summer 2019): https://davebsoft.com/programming-for-kids/classes/athenian/summer/2019/
-  - Tutorials:
-      - Vim: vim.md
-      - Unix shell: shell.md
-  - Coding Games:
-      - Battlesnake: battlesnake.md
-      - CodinGame: codingame.md
-  - Languages:
-      - Java: java.md
   - Software:
       - IDEs:
           - VSCode: https://code.visualstudio.com/download
@@ -33,14 +25,21 @@ nav:
   - Hardware:
       - Circuit Playground: cpx.md
       - Crickit/CPX: cricket.md
+  - Tutorials:
+      - Vim: vim.md
+      - Unix shell: shell.md
   - Online Curriculum:
       - Nand2Tetris: nand2tetris.md
       - Coding Resources: coding-resources.md
-  - Advice: advice.md
-  - Interesting: interesting.md
+  - Coding Games:
+      - Battlesnake: battlesnake.md
+      - CodinGame: codingame.md
+  - Misc:
+    - Advice: advice.md
+    - Interesting: interesting.md
+    - Teaching CS: teaching.md
   - Hour of Code: hoc.md
-  - Teaching CS: teaching.md
-  - Athenian Websites:
+  - Other Athenian Websites:
       - Programming Tutorials: https://github.com/athenian-programming
       - Athenian FLL: https://www.athenian-fll.org
       - Athenian FRC: https://www.athenian-robotics.org
