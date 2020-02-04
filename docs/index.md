@@ -9,3 +9,6 @@
 ## Middle School Classes
 * [CoderZ](/coderz)
 * [CodeCombat](/codecombat)
+
+## Summer School Classes
+* [Introduction to Programming (Summer 2019)](https://davebsoft.com/programming-for-kids/classes/athenian/summer/2019/)
