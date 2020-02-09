@@ -68,7 +68,7 @@ markdown_extensions:
       linenums: true
   - toc:
       permalink: true
-  - pymdownx.arithmatex
+#  - pymdownx.arithmatex
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
