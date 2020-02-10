@@ -2,7 +2,7 @@
 
 !!! note "Upper School Classes"
 
-    * [Computation Thinking](/ct)
+    * [Computational Thinking](/ct)
     * [Intro to CS](/intro)
     * [APCS](/apcs)
     * [Data Structures and Algorithms](/datastructures)
