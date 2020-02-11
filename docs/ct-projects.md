@@ -33,6 +33,14 @@
 ### Conservatory of Flowers Quiz Game CK '23
 * [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Conservatory-of-Flowers-CK)](https://repl.it/github/athenian-ct-projects/Conservatory-of-Flowers-CK)
 
+## Harry potter Day
+
+### Harry Potter Sorting Hat SN '23
+* [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-SN)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-SN)
+* This is a sorting hat quiz for Harry Potter Day. 
+* Needs editing to deal with images (or not).
+
+
 ## Island Day Projects
 
 ### Island Day Game SW '23
@@ -51,7 +59,6 @@
 
 ### Map & Compass Board Game CF '23
 * [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Map-Compass-Board-Game-CF)](https://repl.it/github/athenian-ct-projects/Map-Compass-Board-Game-CF)
-
 * Needs a game board
 
 ### Map & Compass Game JW '23 
