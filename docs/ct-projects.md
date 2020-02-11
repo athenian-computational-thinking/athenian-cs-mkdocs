@@ -10,6 +10,11 @@
 * This is a Monopoly-type game about artists so Visual Art students have something fun to do on Concert Prep Day.
 * Playing pieces, cards and a game board are required for this to function as intended.
 
+## Island Day Projects
+
+### Island Day Game SW '23
+* [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Island-Day-SW)](https://repl.it/github/athenian-ct-projects/Island-Day-SW)
+* This is a digital game for Island Day. No additional materials are needed.
 
 ## Map & Compass Day Projects
 
