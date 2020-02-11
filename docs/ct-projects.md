@@ -33,6 +33,12 @@
 ### Conservatory of Flowers Quiz Game CK '23
 * [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Conservatory-of-Flowers-CK)](https://repl.it/github/athenian-ct-projects/Conservatory-of-Flowers-CK)
 
+## Epidemic Day
+
+### Epidemic Day Board Game AL '23
+* [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Epidemic-Day-AL)](https://repl.it/github/athenian-ct-projects/Epidemic-Day-AL)
+* This is a board game for Epidemic Day. Don't forget the game board!
+
 ## Farm to Table Day
 
 ### Farm to Table Board Game HF '23
