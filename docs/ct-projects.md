@@ -4,11 +4,11 @@
 
 ## Ambassador Day Projects
 
-### Ambassador Day Game MM'23
+### Ambassador Day Game MM '23
 * [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-MM)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-MM)
 * This is an informational quiz game about food, religion and landmarks of China, Japan, singapore and South Korea. No additional materials are required.
 
-### Ambassador Day Trivia Game VGE'23 
+### Ambassador Day Trivia Game VGE '23 
 * [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
 * This is a trivia game about different countries and cultures.
 * The game refers to a score board, but you can also use a whiteboard or a pice of paper to keep score.
@@ -28,6 +28,10 @@
 * This is a Monopoly-type game about artists so Visual Art students have something fun to do on Concert Prep Day.
 * Playing pieces, cards and a game board are required for this to function as intended.
 
+## Conservatory of Flowers Day Projects
+
+### Conservatory of Flowers Quiz Game CK '23
+* [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Conservatory-of-Flowers-CK)](https://repl.it/github/athenian-ct-projects/Conservatory-of-Flowers-CK)
 
 ## Island Day Projects
 
