@@ -4,7 +4,7 @@
 
 ## Arcade Day Projects
 
-### Arcade Day Games NW'23
+### Arcade Day Games NW '23
 * [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Arcade-Day-Game-NW)](https://repl.it/github/athenian-ct-projects/Arcade-Day-Game-NW)
 * This is a set of four different games for Arcade Day
 
@@ -16,11 +16,20 @@
 * This is a Monopoly-type game about artists so Visual Art students have something fun to do on Concert Prep Day.
 * Playing pieces, cards and a game board are required for this to function as intended.
 
+
 ## Island Day Projects
 
 ### Island Day Game SW '23
 * [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Island-Day-SW)](https://repl.it/github/athenian-ct-projects/Island-Day-SW)
 * This is a digital game for Island Day. No additional materials are needed.
+
+
+## Law and Order Day Projects
+
+### Law and Order Jeopary NE '23 
+* [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Law-and-Order-Jeopardy-NE)](https://repl.it/github/athenian-ct-projects/Law-and-Order-Jeopardy-NE)
+* This is a quiz game. No additional materials are required. 
+
 
 ## Map & Compass Day Projects
 
