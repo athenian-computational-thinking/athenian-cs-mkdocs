@@ -43,11 +43,14 @@
 * [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-MM)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-MM)
 * This is a sorting hat quiz for Harry Potter Day. No additional materials are required.
 
-
 ### Harry Potter Sorting Hat SN '23
 * [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-SN)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-SN)
 * This is a sorting hat quiz for Harry Potter Day. No additional materials are required.
 * Needs editing to deal with images (or not).
+
+### Harry Potter Board Game MR '23
+* [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-MR)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-MR)
+* There is a game board that goes with this game.
 
 
 ## Island Day
