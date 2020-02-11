@@ -2,6 +2,12 @@
 
 [Student Project Repos](https://github.com/athenian-ct-projects)
 
+## Arcade Day Projects
+
+### Arcade Day Games NW'23
+* [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Arcade-Day-Game-NW)](https://repl.it/github/athenian-ct-projects/Arcade-Day-Game-NW)
+* This is a set of four different games for Arcade Day
+
 
 ## Concert Prep Day Projects
 
