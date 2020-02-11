@@ -33,7 +33,12 @@
 ### Conservatory of Flowers Quiz Game CK '23
 * [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Conservatory-of-Flowers-CK)](https://repl.it/github/athenian-ct-projects/Conservatory-of-Flowers-CK)
 
-## Harry potter Day
+## Harry Potter Day
+
+### Harry Potter Trivia Game JH '23
+* [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-JH)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-JH)
+* This is a digital trivia game. No additional materials are required.
+
 
 ### Harry Potter Sorting Hat SN '23
 * [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-SN)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-SN)
@@ -63,5 +68,4 @@
 
 ### Map & Compass Game JW '23 
 * [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Map-Compass-Game-JW)](https://repl.it/github/athenian-ct-projects/Map-Compass-Game-JW)
-
 * No additional materials required
