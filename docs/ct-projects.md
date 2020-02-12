@@ -61,6 +61,10 @@ These are programs written by the 9th grade Computational Thinking students for 
 ### [Harry Potter Board Game MR '23](https://github.com/athenian-ct-projects/Harry-Potter-Day-MR) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-MR)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-MR)
 * There is a game board that goes with this game.
 
+## Hero's Journey Day
+### [Hero's Journey Day choose your own adventure game JG '23](https://github.com/athenian-ct-projects/Heros-Journey-Day-JG) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Heros-Journey-Day-JG)](https://repl.it/github/athenian-ct-projects/Heros-Journey-Day-JG)
+* A game board, an instruction packet and features (trees, etc) are used in this game.
+
 
 ## Island Day
 
