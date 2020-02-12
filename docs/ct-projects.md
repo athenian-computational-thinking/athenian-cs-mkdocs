@@ -1,5 +1,5 @@
-# Intrduction:
-## These are programs written by the 9th grade Computational Thinking students for Middle School Focus Days. To run a program, click on the "Run on Replit" button next to the title. 
+# Introduction:
+ These are programs written by the 9th grade Computational Thinking students for Middle School Focus Days. To run a program, click on the "Run on Replit" button next to the title. 
 
 # Computational Thinking Student Projects
 
