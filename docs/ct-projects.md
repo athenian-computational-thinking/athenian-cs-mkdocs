@@ -84,7 +84,7 @@ These are programs written by the 9th grade Computational Thinking students for 
 
 ## Mock Congress Day
 ### [Mock Congress Day Voting System KG '23](https://github.com/athenian-ct-projects/Mock-Congress-Day-KG) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Mock-Congress-Day-KG)](https://repl.it/github/athenian-ct-projects/Mock-Congress-Day-KG)
-* [Informational Poster](https://github.com/athenian-ct-projects/Mock-Congress-Day-KG/blob/master/Voting%20Program%20Poster.pdf)
+* [Informational Poster](https://github.com/athenian-ct-projects/Mock-Congress-Day-KG/blob/master/Voting%20Program%20Poster.pdf) (read this first!)
 * Note from the author: This is quite inefficient because it's based on a not-currently-working build of the ranked voting system.
 It's essentially the ranked voting program with some functionality (and the lack of it functioning correctly) removed.
 * Needs editing - all previous votes can be seen and if a name is spelled incorrectly, the program quits.
