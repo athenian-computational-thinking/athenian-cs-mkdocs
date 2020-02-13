@@ -62,8 +62,16 @@ These are programs written by the 9th grade Computational Thinking students for 
 * There is a game board that goes with this game.
 
 ## Hero's Journey Day
+
 ### [Hero's Journey Day choose your own adventure game JG '23](https://github.com/athenian-ct-projects/Heros-Journey-Day-JG) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Heros-Journey-Day-JG)](https://repl.it/github/athenian-ct-projects/Heros-Journey-Day-JG)
 * A game board, an [instruction packet](https://github.com/athenian-ct-projects/Heros-Journey-Day-JG/blob/master/Heros%20Journey%20JG%20info.pdf) and features (trees, etc) are used in this game.
+
+## I Can Cook Day
+
+### I Can Cook Day Activity VM '23
+* [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/I-Can-Cook-Day-VM)](https://repl.it/github/athenian-ct-projects/I-Can-Cook-Day-VM)
+* Includes nutrition facts and recipes.
+* Needs editing - clean up print statements so they fit on the screen!
 
 
 ## Island Day
@@ -87,6 +95,7 @@ These are programs written by the 9th grade Computational Thinking students for 
 * No additional materials required
 
 ## Mock Congress Day
+
 ### [Mock Congress Day Voting System KG '23](https://github.com/athenian-ct-projects/Mock-Congress-Day-KG) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Mock-Congress-Day-KG)](https://repl.it/github/athenian-ct-projects/Mock-Congress-Day-KG)
 * [Informational Poster](https://github.com/athenian-ct-projects/Mock-Congress-Day-KG/blob/master/Voting%20Program%20Poster.pdf) (read this first!)
 * Note from the author: This is quite inefficient because it's based on a not-currently-working build of the ranked voting system.
