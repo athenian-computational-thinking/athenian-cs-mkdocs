@@ -68,9 +68,13 @@ These are programs written by the 9th grade Computational Thinking students for 
 
 ## I Can Cook Day
 
-### [I Can Cook Day Activity VM '23](https://github.com/athenian-ct-projects/I-Can-Cook-Day-VM) &nbsp;* [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/I-Can-Cook-Day-VM)](https://repl.it/github/athenian-ct-projects/I-Can-Cook-Day-VM)
+### [I Can Cook Day Activity VM '23](https://github.com/athenian-ct-projects/I-Can-Cook-Day-VM) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/I-Can-Cook-Day-VM)](https://repl.it/github/athenian-ct-projects/I-Can-Cook-Day-VM)
 * Includes nutrition facts and recipes.
 * Needs editing - clean up print statements so they fit on the screen!
+
+### [I Can Cook Day BL '23](https://github.com/athenian-ct-projects/I-Can-Cook-Day-BL) &nbsp [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/I-Can-Cook-Day-BL)](https://repl.it/github/athenian-ct-projects/I-Can-Cook-Day-BL)
+* A choose your own adevnture day about food and survival.
+* edit to clean up print statements.
 
 
 ## Island Day
