@@ -63,7 +63,7 @@ These are programs written by the 9th grade Computational Thinking students for 
 
 ## Hero's Journey Day
 ### [Hero's Journey Day choose your own adventure game JG '23](https://github.com/athenian-ct-projects/Heros-Journey-Day-JG) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Heros-Journey-Day-JG)](https://repl.it/github/athenian-ct-projects/Heros-Journey-Day-JG)
-* A game board, an instruction packet and features (trees, etc) are used in this game.
+* A game board, an [instruction packet](https://github.com/athenian-ct-projects/Heros-Journey-Day-JG/blob/master/Heros%20Journey%20JG%20info.pdf) and features (trees, etc) are used in this game.
 
 
 ## Island Day
