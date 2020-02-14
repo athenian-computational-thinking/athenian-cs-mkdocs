@@ -101,6 +101,8 @@ These are programs written by the 9th grade Computational Thinking students for 
 ### [Medieval Day CYOA Game OM '23](https://github.com/athenian-ct-projects/Medieval-Day-OM) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Medieval-Day-OM)](https://repl.it/github/athenian-ct-projects/Medieval-Day-OM)
 * This is a chhose your own adventure game that is intended to be a fun way to learn about medieval warfare, crossbows, swords, and armor.
 
+### [Medieval Day Trajectory Calculator MM '23](https://github.com/athenian-ct-projects/Medieval-Day-MD) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Medieval-Day-MD)](https://repl.it/github/athenian-ct-projects/Medieval-Day-MD)
+* This is a trajectory calculator for use with the Medieval Day catapults
 
 ## Mock Congress Day
 
