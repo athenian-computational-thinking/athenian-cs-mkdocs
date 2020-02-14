@@ -97,6 +97,11 @@ These are programs written by the 9th grade Computational Thinking students for 
 ### [Map & Compass Game JW '23](https://github.com/athenian-ct-projects/Map-Compass-Game-JW) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Map-Compass-Game-JW)](https://repl.it/github/athenian-ct-projects/Map-Compass-Game-JW)
 * No additional materials required
 
+## Medieval Day
+### [Medieval Day CYOA Game OM '23](https://github.com/athenian-ct-projects/Medieval-Day-OM) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Medieval-Day-OM)](https://repl.it/github/athenian-ct-projects/Medieval-Day-OM)
+* This is a chhose your own adventure game that is intended to be a fun way to learn about medieval warfare, crossbows, swords, and armor.
+
+
 ## Mock Congress Day
 
 ### [Mock Congress Day Voting System KG '23](https://github.com/athenian-ct-projects/Mock-Congress-Day-KG) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Mock-Congress-Day-KG)](https://repl.it/github/athenian-ct-projects/Mock-Congress-Day-KG)
