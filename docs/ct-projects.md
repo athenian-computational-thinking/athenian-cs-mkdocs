@@ -2,6 +2,9 @@
 
 [Student Project Repos](https://github.com/athenian-ct-projects)
 
+# Introduction
+These are programs written by the 9th grade Computational Thinking students for Middle School Focus Days. To run a program, click on the "Run on Replit" button next to the title. 
+
 ## Ambassador Day
 
 ### [Ambassador Day Game MM '23](https://github.com/athenian-ct-projects/Ambassador-Day-Game-MM) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-MM)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-MM)
@@ -58,6 +61,21 @@
 ### [Harry Potter Board Game MR '23](https://github.com/athenian-ct-projects/Harry-Potter-Day-MR) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-MR)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-MR)
 * There is a game board that goes with this game.
 
+## Hero's Journey Day
+
+### [Hero's Journey Day choose your own adventure game JG '23](https://github.com/athenian-ct-projects/Heros-Journey-Day-JG) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Heros-Journey-Day-JG)](https://repl.it/github/athenian-ct-projects/Heros-Journey-Day-JG)
+* A game board, an [instruction packet](https://github.com/athenian-ct-projects/Heros-Journey-Day-JG/blob/master/Heros%20Journey%20JG%20info.pdf) and features (trees, etc) are used in this game.
+
+## I Can Cook Day
+
+### [I Can Cook Day Activity VM '23](https://github.com/athenian-ct-projects/I-Can-Cook-Day-VM) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/I-Can-Cook-Day-VM)](https://repl.it/github/athenian-ct-projects/I-Can-Cook-Day-VM)
+* Includes nutrition facts and recipes.
+* Needs editing - clean up print statements so they fit on the screen!
+
+### [I Can Cook Day BL '23](https://github.com/athenian-ct-projects/I-Can-Cook-Day-BL) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/I-Can-Cook-Day-BL)](https://repl.it/github/athenian-ct-projects/I-Can-Cook-Day-BL)
+* A choose your own adevnture day about food and survival.
+* edit to clean up print statements.
+
 
 ## Island Day
 
@@ -78,3 +96,19 @@
 
 ### [Map & Compass Game JW '23](https://github.com/athenian-ct-projects/Map-Compass-Game-JW) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Map-Compass-Game-JW)](https://repl.it/github/athenian-ct-projects/Map-Compass-Game-JW)
 * No additional materials required
+
+## Medieval Day
+### [Medieval Day CYOA Game OM '23](https://github.com/athenian-ct-projects/Medieval-Day-OM) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Medieval-Day-OM)](https://repl.it/github/athenian-ct-projects/Medieval-Day-OM)
+* This is a choose your own adventure game that is intended to be a fun way to learn about medieval warfare, crossbows, swords, and armor.
+
+### [Medieval Day Trajectory Calculator MM '23](https://github.com/athenian-ct-projects/Medieval-Day-MD) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Medieval-Day-MD)](https://repl.it/github/athenian-ct-projects/Medieval-Day-MD)
+* This is a trajectory calculator for use with the Medieval Day catapults
+
+## Mock Congress Day
+
+### [Mock Congress Day Voting System KG '23](https://github.com/athenian-ct-projects/Mock-Congress-Day-KG) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Mock-Congress-Day-KG)](https://repl.it/github/athenian-ct-projects/Mock-Congress-Day-KG)
+* [Informational Poster](https://github.com/athenian-ct-projects/Mock-Congress-Day-KG/blob/master/Voting%20Program%20Poster.pdf) (read this first!)
+* Note from the author: This is quite inefficient because it's based on a not-currently-working build of the ranked voting system.
+It's essentially the ranked voting program with some functionality (and the lack of it functioning correctly) removed.
+* Needs editing - all previous votes can be seen and if a name is spelled incorrectly, the program quits.
+
