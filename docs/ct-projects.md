@@ -112,3 +112,8 @@ These are programs written by the 9th grade Computational Thinking students for 
 It's essentially the ranked voting program with some functionality (and the lack of it functioning correctly) removed.
 * Needs editing - all previous votes can be seen and if a name is spelled incorrectly, the program quits.
 
+## Panathanea Day
+
+### [Panathanea Day CYOA AL '23](https://github.com/athenian-ct-projects/Panathanea-Day-AL) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Panathanea-Day-AL)](https://repl.it/github/athenian-ct-projects/Panathanea-Day-AL)
+* A choose your own adventure game
+
