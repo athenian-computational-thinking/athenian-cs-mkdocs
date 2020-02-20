@@ -121,3 +121,8 @@ It's essentially the ranked voting program with some functionality (and the lack
 
 ### [Risky Bizness Trivia Game LD '23](https://github.com/athenian-ct-projects/Risky-Bizness-Day-LD) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Risky-Bizness-Day-LD)](https://repl.it/github/athenian-ct-projects/Risky-Bizness-Day-LD)
 * A trivia game for Risky Bizness Day
+
+## Robinson Crusoe Day
+### [Robinson Crusoe Day CYOA DE '23](https://github.com/athenian-ct-projects/Robinson-Crusoe-Day-DE) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Robinson-Crusoe-Day-DE)](https://repl.it/github/athenian-ct-projects/Robinson-Crusoe-Day-DE)
+* A choose your own adventure game
+
