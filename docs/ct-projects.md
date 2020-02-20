@@ -137,3 +137,9 @@ It's essentially the ranked voting program with some functionality (and the lack
 
 ### [Spartan Day Program OB '23](https://github.com/athenian-ct-projects/Spartan-Day-OB) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Spartan-Day-OB)](https://repl.it/github/athenian-ct-projects/Spartan-Day-OB)
 * This is a program that will determine which elements a student needs to do in their race.
+
+## West Side Story
+
+### [West Side Story Line-learning Game AC '23](https://github.com/athenian-ct-projects/West-Side-Story-AC) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/West-Side-Story-AC)](https://repl.it/github/athenian-ct-projects/West-Side-Story-AC)
+* This is a line learning game for West Side Story. Be sure to obtain the game board prior to playing!
+
