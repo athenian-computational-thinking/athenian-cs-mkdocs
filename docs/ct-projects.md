@@ -123,8 +123,13 @@ It's essentially the ranked voting program with some functionality (and the lack
 * A trivia game for Risky Bizness Day
 
 ## Robinson Crusoe Day
+
+### [Robinson Crusoe Day CYOA Game AW '23](https://github.com/athenian-ct-projects/Robinson-Crusoe-Day-AW) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Robinson-Crusoe-Day-AW)](https://repl.it/github/athenian-ct-projects/Robinson-Crusoe-Day-AW)
+* This is a choose your own adventure game.
+
 ### [Robinson Crusoe Day CYOA DE '23](https://github.com/athenian-ct-projects/Robinson-Crusoe-Day-DE) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Robinson-Crusoe-Day-DE)](https://repl.it/github/athenian-ct-projects/Robinson-Crusoe-Day-DE)
 * A choose your own adventure game
 
 ### [Robinson Crusoe Day Game YM '23](https://github.com/athenian-ct-projects/Robinson-Crusoe-Day-YM) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Robinson-Crusoe-Day-YM)](https://repl.it/github/athenian-ct-projects/Robinson-Crusoe-Day-YM)
 * This is an "Oregon Trail"-type game.
+
