@@ -9,11 +9,12 @@ These are programs written by the 9th grade Computational Thinking students for 
 
 ### [Ambassador Day Game MM '23](https://github.com/athenian-ct-projects/Ambassador-Day-Game-MM) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-MM)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-MM)
 * This is an informational quiz game about food, religion and landmarks of China, Japan, singapore and South Korea. No additional materials are required.
+* Only runs once. Maybe add lowercase country names? MA
 
 ### [Ambassador Day Trivia Game VGE '23](https://github.com/athenian-ct-projects/Ambassador-Day-Game-VGE) [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
 * This is a trivia game about different countries and cultures.
 * The game refers to a score board, but you can also use a whiteboard or a piece of paper to keep score.
-
+* Make a score counter? MA
 
 ## Arcade Day
 
