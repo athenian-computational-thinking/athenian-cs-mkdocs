@@ -133,3 +133,7 @@ It's essentially the ranked voting program with some functionality (and the lack
 ### [Robinson Crusoe Day Game YM '23](https://github.com/athenian-ct-projects/Robinson-Crusoe-Day-YM) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Robinson-Crusoe-Day-YM)](https://repl.it/github/athenian-ct-projects/Robinson-Crusoe-Day-YM)
 * This is an "Oregon Trail"-type game.
 
+## Spartan Day
+
+### [Spartan Day Program OB '23](https://github.com/athenian-ct-projects/Spartan-Day-OB) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Spartan-Day-OB)](https://repl.it/github/athenian-ct-projects/Spartan-Day-OB)
+* This is a program that will determine which elements a student needs to do in their race.
