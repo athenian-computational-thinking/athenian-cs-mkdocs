@@ -31,6 +31,7 @@ These are programs written by the 9th grade Computational Thinking students for 
 ## Conservatory of Flowers Day
 
 ### [Conservatory of Flowers Quiz Game CK '23](https://github.com/athenian-ct-projects/Conservatory-of-Flowers-CK) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Conservatory-of-Flowers-CK)](https://repl.it/github/athenian-ct-projects/Conservatory-of-Flowers-CK)
+* This is a true/false game for the Conservatory of Flowers focus day.
 
 ## Epidemic Day
 
