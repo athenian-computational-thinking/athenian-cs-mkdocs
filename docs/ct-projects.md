@@ -144,3 +144,7 @@ It's essentially the ranked voting program with some functionality (and the lack
 ### [West Side Story Line-learning Game AC '23](https://github.com/athenian-ct-projects/West-Side-Story-AC) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/West-Side-Story-AC)](https://repl.it/github/athenian-ct-projects/West-Side-Story-AC)
 * This is a line learning game for West Side Story. Be sure to obtain the game board prior to playing!
 
+### [West Side Story Line Learning Quiz LA '23](https://github.com/athenian-ct-projects/West-Side-Story-LA) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/West-Side-Story-LA)](https://repl.it/github/athenian-ct-projects/West-Side-Story-LA)
+* This is a game/quiz for the West Side Story focus day.
+
+
