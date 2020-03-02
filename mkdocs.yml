@@ -32,6 +32,7 @@ nav:
       - Nand2Tetris: nand2tetris.md
       - Coding Resources: coding-resources.md
       - The Missing Semester of Your CS Education: https://missing.csail.mit.edu
+      - ROSALIND (Platform for learning bioinformatics and programming): http://rosalind.info/
   - Coding Games:
       - Battlesnake: battlesnake.md
       - CodinGame: codingame.md
