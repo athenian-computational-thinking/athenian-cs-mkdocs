@@ -12,6 +12,6 @@
     * [CoderZ](/coderz)
     * [CodeCombat](/codecombat)
 
-!!! note "Summer School Classes"
+!!! note "Athenian Summer Programs, 2020"
 
-    * [Introduction to Programming (Summer 2019)](https://davebsoft.com/programming-for-kids/classes/athenian/summer/2019/)
+    * [Grades 6–10 programming classes using Ruby, Python and JavaScript](https://davebsoft.com/programming-for-kids/classes/athenian/summer/2020/)
