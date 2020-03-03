@@ -20,18 +20,20 @@ These are programs written by the 9th grade Computational Thinking students for 
 
 ### [Arcade Day Games NW '23](https://github.com/athenian-ct-projects/Arcade-Day-Game-NW) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Arcade-Day-Game-NW)](https://repl.it/github/athenian-ct-projects/Arcade-Day-Game-NW)
 * This is a set of four different games for Arcade Day
-
+* Maybe make it so that it doesn't break when I don't press what it tells me to press and just resets it? Also, on the guess a number, maybe give option to specify range? MA
 
 ## Concert Prep Day
 
 ### [Concert Prep Day Artist Monopoly JL '23](https://github.com/athenian-ct-projects/Concert-Prep-Day-JL) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Concert-Prep-Day-JL)](https://repl.it/github/athenian-ct-projects/Concert-Prep-Day-JL)
 * This is a Monopoly-type game about artists so Visual Art students have something fun to do on Concert Prep Day.
 * Playing pieces, cards and a game board are required for this to function as intended.
+* Maybe make some more good cards? Also, it would be great to specify who's bankrupt and keep track of who's out. MA
 
 ## Conservatory of Flowers Day
 
 ### [Conservatory of Flowers Quiz Game CK '23](https://github.com/athenian-ct-projects/Conservatory-of-Flowers-CK) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Conservatory-of-Flowers-CK)](https://repl.it/github/athenian-ct-projects/Conservatory-of-Flowers-CK)
 * This is a true/false game for the Conservatory of Flowers focus day.
+* Maybe don't take off points when it's wrong. Otherwise, it's always going to return an even number. For example, getting nine correct will return a score of 8/10. Also, it's possible to go into negative points. MA
 
 ## Epidemic Day
 
