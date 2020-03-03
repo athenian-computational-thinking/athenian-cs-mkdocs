@@ -16,6 +16,8 @@ nav:
           - VSCode: https://code.visualstudio.com/download
           - IntelliJ: https://www.jetbrains.com/idea/download/
           - PyCharm: https://www.jetbrains.com/pycharm/download
+          - repl.it: https://repl.it/
+          - ideone.com: https://ideone.com
       - Colab: colab.md
       - Git: git.md
       - Jupyter: jupyter.md
