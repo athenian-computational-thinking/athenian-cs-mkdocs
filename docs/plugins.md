@@ -1,8 +1,9 @@
 # IDE Plugins
 
-## VSCode
-* [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+## VS Code
+* [VS Code Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 * [Device Simulator Express](https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress)
+* [8 VS Code Extensions to help you write better code](https://medium.com/better-programming/8-vs-code-extensions-to-help-you-write-better-code-3f3fa56a3a52)
 
 ## PyCharm and IntelliJ
 * [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance/)
