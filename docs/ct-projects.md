@@ -33,34 +33,39 @@ These are programs written by the 9th grade Computational Thinking students for 
 
 ### [Conservatory of Flowers Quiz Game CK '23](https://github.com/athenian-ct-projects/Conservatory-of-Flowers-CK) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Conservatory-of-Flowers-CK)](https://repl.it/github/athenian-ct-projects/Conservatory-of-Flowers-CK)
 * This is a true/false game for the Conservatory of Flowers focus day.
-* Maybe don't take off points when it's wrong. Otherwise, it's always going to return an even number. For example, getting nine correct will return a score of 8/10. Also, it's possible to go into negative points. MA
+* Maybe don't take off points when it's wrong. Otherwise, it's always going to return an even number. For example, getting
+nine correct will return a score of 8/10. Also, it's possible to go into negative points. MA
 
 ## Epidemic Day
 
 ### [Epidemic Day Board Game AL '23](https://github.com/athenian-ct-projects/Epidemic-Day-AL) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Epidemic-Day-AL)](https://repl.it/github/athenian-ct-projects/Epidemic-Day-AL)
 * This is a board game for Epidemic Day. Don't forget the game board!
+* Is there any change in Jungle, Outlands, Boroughs, or Megalopolis? Also, it would be great if the game automatically pressed 3 or 4 for the cards with automatic death or success. MA
 
 ### [Epidemic Journey: A Board Game KK '23](https://github.com/athenian-ct-projects/Epidemic-Day-KK) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Epidemic-Day-KK)](https://repl.it/github/athenian-ct-projects/Epidemic-Day-KK)
 * A game board is required for this game.
-
+* Make it so that it doesn't break when it asks to select a number and I press a letter? MA
 
 ## Farm to Table Day
 
 ### [Farm to Table Board Game HF '23](https://github.com/athenian-ct-projects/Farm-to-Table-Day-HF) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Farm-to-Table-Day-HF)](https://repl.it/github/athenian-ct-projects/Farm-to-Table-Day-HF)
 * This is a board game. Be sure to get the game board!
-
+* If I select 5 and there are only four answers, it tells me to select a new answer, but when I do, it gives a error. MA
 
 ## Harry Potter Day
 
 ### [Harry Potter Trivia Game JH '23](https://github.com/athenian-ct-projects/Harry-Potter-Day-JH) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-JH)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-JH)
 * This is a digital trivia game. No additional materials are required.
+* Have a score counter? MA
 
 ### [Harry Potter Sorting Hat MM '23](https://github.com/athenian-ct-projects/Harry-Potter-Day-MM) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-MM)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-MM)
 * This is a sorting hat quiz for Harry Potter Day. No additional materials are required.
+* How do the houses correspond to the points? MA
 
 ### [Harry Potter Sorting Hat SN '23](https://github.com/athenian-ct-projects/Harry-Potter-Day-SN) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-SN)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-SN)
 * This is a sorting hat quiz for Harry Potter Day. No additional materials are required.
 * Needs editing to deal with images (or not).
+* 
 
 ### [Harry Potter Board Game MR '23](https://github.com/athenian-ct-projects/Harry-Potter-Day-MR) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-MR)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-MR)
 * There is a game board that goes with this game.
