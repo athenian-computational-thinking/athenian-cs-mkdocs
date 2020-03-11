@@ -33,6 +33,7 @@ nav:
       - Vim: vim.md
       - Unix shell: shell.md
   - Online Curriculum:
+      - [Object Oriented Programming](https://www.youtube.com/watch?v=o8p1f5ra8RA&list=PLJse9iV6ReqhD_wMePwA2HPJ1y5jNmIus)
       - Nand2Tetris: nand2tetris.md
       - Coding Resources: coding-resources.md
       - The Missing Semester of Your CS Education: https://missing.csail.mit.edu
