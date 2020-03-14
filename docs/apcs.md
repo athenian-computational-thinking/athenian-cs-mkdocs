@@ -2,7 +2,7 @@
 
 ## gradlew Commands
 
-Create gradlew with:
+Create `gradlew` with:
 ```
 gradle wrapper
 ```
