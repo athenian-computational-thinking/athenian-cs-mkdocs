@@ -65,21 +65,24 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 ### [Harry Potter Sorting Hat SN '23](https://github.com/athenian-ct-projects/Harry-Potter-Day-SN) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-SN)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-SN)
 * This is a sorting hat quiz for Harry Potter Day. No additional materials are required.
 * Needs editing to deal with images (or not).
-* 
+* Can't run. MA
 
 ### [Harry Potter Board Game MR '23](https://github.com/athenian-ct-projects/Harry-Potter-Day-MR) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-MR)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-MR)
 * There is a game board that goes with this game.
+* Can't run. MA
 
 ## Hero's Journey Day
 
 ### [Hero's Journey Day choose your own adventure game JG '23](https://github.com/athenian-ct-projects/Heros-Journey-Day-JG) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Heros-Journey-Day-JG)](https://repl.it/github/athenian-ct-projects/Heros-Journey-Day-JG)
 * A game board, an [instruction packet](https://github.com/athenian-ct-projects/Heros-Journey-Day-JG/blob/master/Heros%20Journey%20JG%20info.pdf) and features (trees, etc) are used in this game.
+* Can't run. MA
 
 ## I Can Cook Day
 
 ### [I Can Cook Day Activity VM '23](https://github.com/athenian-ct-projects/I-Can-Cook-Day-VM) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/I-Can-Cook-Day-VM)](https://repl.it/github/athenian-ct-projects/I-Can-Cook-Day-VM)
 * Includes nutrition facts and recipes.
 * Needs editing - clean up print statements so they fit on the screen!
+* Whenever I choose between nutrition and how to make it, it says <class 'int'>. Why is that? MA
 
 ### [I Can Cook Day BL '23](https://github.com/athenian-ct-projects/I-Can-Cook-Day-BL) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/I-Can-Cook-Day-BL)](https://repl.it/github/athenian-ct-projects/I-Can-Cook-Day-BL)
 * A choose your own adevnture day about food and survival.
