@@ -87,7 +87,7 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 ### [I Can Cook Day BL '23](https://github.com/athenian-ct-projects/I-Can-Cook-Day-BL) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/I-Can-Cook-Day-BL)](https://repl.it/github/athenian-ct-projects/I-Can-Cook-Day-BL)
 * A choose your own adevnture day about food and survival.
 * edit to clean up print statements.
-
+* I'm not sure if having one way to win is the best option, but ok. MA
 
 ## Island Day
 
