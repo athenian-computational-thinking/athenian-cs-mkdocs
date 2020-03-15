@@ -65,17 +65,17 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 ### [Harry Potter Sorting Hat SN '23](https://github.com/athenian-ct-projects/Harry-Potter-Day-SN) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-SN)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-SN)
 * This is a sorting hat quiz for Harry Potter Day. No additional materials are required.
 * Needs editing to deal with images (or not).
-* Can't run. MA
+* Can't run. Invalid syntax for image. MA
 
 ### [Harry Potter Board Game MR '23](https://github.com/athenian-ct-projects/Harry-Potter-Day-MR) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-MR)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-MR)
 * There is a game board that goes with this game.
-* Can't run. MA
+* Can't run. Invalid syntax. MA
 
 ## Hero's Journey Day
 
 ### [Hero's Journey Day choose your own adventure game JG '23](https://github.com/athenian-ct-projects/Heros-Journey-Day-JG) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Heros-Journey-Day-JG)](https://repl.it/github/athenian-ct-projects/Heros-Journey-Day-JG)
 * A game board, an [instruction packet](https://github.com/athenian-ct-projects/Heros-Journey-Day-JG/blob/master/Heros%20Journey%20JG%20info.pdf) and features (trees, etc) are used in this game.
-* Can't run. MA
+* Can't run. Invalid syntax. MA
 
 ## I Can Cook Day
 
@@ -133,13 +133,13 @@ It's essentially the ranked voting program with some functionality (and the lack
 
 ### [Panathanea Day CYOA AL '23](https://github.com/athenian-ct-projects/Panathanea-Day-AL) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Panathanea-Day-AL)](https://repl.it/github/athenian-ct-projects/Panathanea-Day-AL)
 * A choose your own adventure game
-* Can't run. MA
+* Can't run. It can't open the file and says it doesn't exist even though it's right there. MA
 
 ## Risky Bizness Day
 
 ### [Risky Bizness Trivia Game LD '23](https://github.com/athenian-ct-projects/Risky-Bizness-Day-LD) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Risky-Bizness-Day-LD)](https://repl.it/github/athenian-ct-projects/Risky-Bizness-Day-LD)
 * A trivia game for Risky Bizness Day
-* Can't run. MA
+* Couldn't run. It was just missing a quotation mark. I couldn't crash it. MA
 
 ## Robinson Crusoe Day
 
@@ -165,7 +165,7 @@ It's essentially the ranked voting program with some functionality (and the lack
 
 ### [West Side Story Line-learning Game AC '23](https://github.com/athenian-ct-projects/West-Side-Story-AC) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/West-Side-Story-AC)](https://repl.it/github/athenian-ct-projects/West-Side-Story-AC)
 * This is a line learning game for West Side Story. Be sure to obtain the game board prior to playing!
-* I didn't have the game board, so I was a little confused at first. However, there aren't any bugs and I couldn't crash it. MA
+* I didn't have the game board, so I was a little confused at first. I couldn't crash it. MA
 
 ### [West Side Story Line Learning Quiz LA '23](https://github.com/athenian-ct-projects/West-Side-Story-LA) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/West-Side-Story-LA)](https://repl.it/github/athenian-ct-projects/West-Side-Story-LA)
 * This is a game/quiz for the West Side Story focus day.
