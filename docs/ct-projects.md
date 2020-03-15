@@ -93,28 +93,32 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 
 ### [Island Day Game SW '23](https://github.com/athenian-ct-projects/Island-Day-SW) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Island-Day-SW)](https://repl.it/github/athenian-ct-projects/Island-Day-SW)
 * This is a digital game for Island Day. No additional materials are needed.
-
+* Why are there infinite lives? Also, the program breaks if no number is entered. Maybe have a message saying "pick a number"? MA
 
 ## Law and Order Day
 
 ### [Law and Order Jeopary NE '23](https://github.com/athenian-ct-projects/Law-and-Order-Jeopardy-NE) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Law-and-Order-Jeopardy-NE)](https://repl.it/github/athenian-ct-projects/Law-and-Order-Jeopardy-NE)
 * This is a quiz game. No additional materials are required. 
-
+* Maybe instead of asking play again? after every question, automatically go to the next question and then have an option to end. Also, is there a way to keep track of which questions have been answered? MA
 
 ## Map & Compass Day
 
 ### [Map & Compass Board Game CF '23](https://github.com/athenian-ct-projects/Map-Compass-Board-Game-CF) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Map-Compass-Board-Game-CF)](https://repl.it/github/athenian-ct-projects/Map-Compass-Board-Game-CF)
 * Needs a game board
+* Can't understand, but I don't know what the board looks like. MA
 
 ### [Map & Compass Game JW '23](https://github.com/athenian-ct-projects/Map-Compass-Game-JW) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Map-Compass-Game-JW)](https://repl.it/github/athenian-ct-projects/Map-Compass-Game-JW)
 * No additional materials required
+* It's kind of hard to understand what I'm supposed to do, but once I figured out what I was supposed to do, it was fun. MA
 
 ## Medieval Day
 ### [Medieval Day CYOA Game OM '23](https://github.com/athenian-ct-projects/Medieval-Day-OM) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Medieval-Day-OM)](https://repl.it/github/athenian-ct-projects/Medieval-Day-OM)
 * This is a choose your own adventure game that is intended to be a fun way to learn about medieval warfare, crossbows, swords, and armor.
+* Have a replay button? I like how some of the options overlap. MA
 
 ### [Medieval Day Trajectory Calculator MM '23](https://github.com/athenian-ct-projects/Medieval-Day-MD) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Medieval-Day-MD)](https://repl.it/github/athenian-ct-projects/Medieval-Day-MD)
 * This is a trajectory calculator for use with the Medieval Day catapults
+* What unit is it in? Also, how do they know the release velocity? MA
 
 ## Mock Congress Day
 
@@ -123,6 +127,7 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 * Note from the author: This is quite inefficient because it's based on a not-currently-working build of the ranked voting system.
 It's essentially the ranked voting program with some functionality (and the lack of it functioning correctly) removed.
 * Needs editing - all previous votes can be seen and if a name is spelled incorrectly, the program quits.
+* If there are two candidates with the same name, it only goes to one. That probably won't be a problem though. Also, have a reminder saying voting complete will end it so people don't have to go into the code to find it. MA
 
 ## Panathanea Day
 
