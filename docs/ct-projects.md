@@ -133,34 +133,42 @@ It's essentially the ranked voting program with some functionality (and the lack
 
 ### [Panathanea Day CYOA AL '23](https://github.com/athenian-ct-projects/Panathanea-Day-AL) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Panathanea-Day-AL)](https://repl.it/github/athenian-ct-projects/Panathanea-Day-AL)
 * A choose your own adventure game
+* Can't run. MA
 
 ## Risky Bizness Day
 
 ### [Risky Bizness Trivia Game LD '23](https://github.com/athenian-ct-projects/Risky-Bizness-Day-LD) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Risky-Bizness-Day-LD)](https://repl.it/github/athenian-ct-projects/Risky-Bizness-Day-LD)
 * A trivia game for Risky Bizness Day
+* Can't run. MA
 
 ## Robinson Crusoe Day
 
 ### [Robinson Crusoe Day CYOA Game AW '23](https://github.com/athenian-ct-projects/Robinson-Crusoe-Day-AW) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Robinson-Crusoe-Day-AW)](https://repl.it/github/athenian-ct-projects/Robinson-Crusoe-Day-AW)
 * This is a choose your own adventure game.
+* I like how most of the choices overlap. I also appreciate the fact that it almost broke my computer. Maybe have a replay button? MA
 
 ### [Robinson Crusoe Day CYOA DE '23](https://github.com/athenian-ct-projects/Robinson-Crusoe-Day-DE) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Robinson-Crusoe-Day-DE)](https://repl.it/github/athenian-ct-projects/Robinson-Crusoe-Day-DE)
 * A choose your own adventure game
+* Why the automatic restarts? However, on some of the restarts, it breaks, even when I don't really do anything. MA
 
 ### [Robinson Crusoe Day Game YM '23](https://github.com/athenian-ct-projects/Robinson-Crusoe-Day-YM) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Robinson-Crusoe-Day-YM)](https://repl.it/github/athenian-ct-projects/Robinson-Crusoe-Day-YM)
 * This is an "Oregon Trail"-type game.
+* Are there additional materials or activities? I'm not sure what I'm supposed to do. It mostly seems like a timer unless there's some method that I'm not calling. I see that there are other methods, but I don't know where they're called. MA
 
 ## Spartan Day
 
 ### [Spartan Day Program OB '23](https://github.com/athenian-ct-projects/Spartan-Day-OB) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Spartan-Day-OB)](https://repl.it/github/athenian-ct-projects/Spartan-Day-OB)
 * This is a program that will determine which elements a student needs to do in their race.
+* I'm guessing if I see the actual race, it'll make more sense. MA
 
 ## West Side Story
 
 ### [West Side Story Line-learning Game AC '23](https://github.com/athenian-ct-projects/West-Side-Story-AC) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/West-Side-Story-AC)](https://repl.it/github/athenian-ct-projects/West-Side-Story-AC)
 * This is a line learning game for West Side Story. Be sure to obtain the game board prior to playing!
+* I didn't have the game board, so I was a little confused at first. However, there aren't any bugs and I couldn't crash it. MA
 
 ### [West Side Story Line Learning Quiz LA '23](https://github.com/athenian-ct-projects/West-Side-Story-LA) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/West-Side-Story-LA)](https://repl.it/github/athenian-ct-projects/West-Side-Story-LA)
 * This is a game/quiz for the West Side Story focus day.
+* For some of them, even if there's no response, it moves on. I couldn't crash it. MA
 
 
