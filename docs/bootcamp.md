@@ -1,4 +1,4 @@
 # APCS Bootcamp Examples
 
-* [Variables](./bootcamp-vars)
-* [Functions](./bootcamp-funcs)
+* [Variables](../bootcamp-vars)
+* [Functions](../bootcamp-funcs)
