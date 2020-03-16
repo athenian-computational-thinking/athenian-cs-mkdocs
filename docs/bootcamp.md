@@ -6,8 +6,8 @@
 
 ## Elements of Programming
 * Thread of control
-* [Variables](../bootcamp-vars)
-* [Functions](../bootcamp-funcs)
+* [Variables](bootcamp/variables)
+* [Functions](bootcamp/functions)
 * Conditionals
 * Loops
 
