@@ -45,6 +45,7 @@ nav:
     - Advice: advice.md
     - Interesting: interesting.md
     - Teaching CS: teaching.md
+    - APCS Bootcamp: bootcamp.md
   - Hour of Code: hoc.md
   - Other Athenian Websites:
       - Programming Tutorials: https://github.com/athenian-programming
