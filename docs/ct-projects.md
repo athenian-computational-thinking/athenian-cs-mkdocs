@@ -95,6 +95,9 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 * edit to clean up print statements.
 * I'm not sure if having one way to win is the best option, but ok. MA
 
+### [I Can Cook Day SS '23](https://github.com/athenian-ct-projects/I-Can-Cook-Day-SS) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/I-Can-Cook-Day-SS)](https://repl.it/github/athenian-ct-projects/I-Can-Cook-Day-SS)
+* This is a cupcake game
+
 ## Island Day
 
 ### [Island Day Game SW '23](https://github.com/athenian-ct-projects/Island-Day-SW) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Island-Day-SW)](https://repl.it/github/athenian-ct-projects/Island-Day-SW)
