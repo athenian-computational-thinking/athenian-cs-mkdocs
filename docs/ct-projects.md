@@ -71,6 +71,12 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 * There is a game board that goes with this game.
 * Can't run. Invalid syntax. MA
 
+## Head Games Day
+
+### [Football Simulation for Head Games Day TG '23](https://github.com/athenian-ct-projects/Head-Games-Day-TG) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Head-Games-Day-TG)](https://repl.it/github/athenian-ct-projects/Head-Games-Day-TG)
+
+
+
 ## Hero's Journey Day
 
 ### [Hero's Journey Day choose your own adventure game JG '23](https://github.com/athenian-ct-projects/Heros-Journey-Day-JG) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Heros-Journey-Day-JG)](https://repl.it/github/athenian-ct-projects/Heros-Journey-Day-JG)
