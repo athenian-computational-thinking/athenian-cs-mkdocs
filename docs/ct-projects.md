@@ -74,6 +74,9 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 ### [Harry Potter Day RK '23](https://github.com/athenian-ct-projects/Harry-Potter-Day-RK) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-RK)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-RK)
 * A Quidditch Game for Harry Potter Day
 
+### [Harry Potter Day MG '23](https://github.com/athenian-ct-projects/Head-Games-Day-PS) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-MG)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-MG)
+* Harry Potter Hangman game
+
 
 ## Head Games Day
 
