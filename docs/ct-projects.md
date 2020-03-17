@@ -77,6 +77,10 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 
 ## Head Games Day
 
+### [Head Games Day PS '23](https://github.com/athenian-ct-projects/Head-Games-Day-PS) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Head-Games-Day-PS)](https://repl.it/github/athenian-ct-projects/Head-Games-Day-PS)
+* This is a football simulation
+
+
 ### [Football Simulation for Head Games Day TG '23](https://github.com/athenian-ct-projects/Head-Games-Day-TG) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Head-Games-Day-TG)](https://repl.it/github/athenian-ct-projects/Head-Games-Day-TG)
 
 
