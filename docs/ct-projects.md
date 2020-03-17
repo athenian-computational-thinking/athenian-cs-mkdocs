@@ -22,6 +22,11 @@ These are programs written by the 9th grade Computational Thinking students for 
 * This is a set of four different games for Arcade Day
 * Maybe make it so that it doesn't break when I don't press what it tells me to press and just resets it? Also, on the guess a number, maybe give option to specify range? MA
 
+## Career Day
+
+### [Career Day KW '23](https://github.com/athenian-ct-projects/Career-Day-KW) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Career-Day-KW)](https://repl.it/github/athenian-ct-projects/Career-Day-KW)
+* Career quiz
+
 ## Concert Prep Day
 
 ### [Concert Prep Day Artist Monopoly JL '23](https://github.com/athenian-ct-projects/Concert-Prep-Day-JL) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Concert-Prep-Day-JL)](https://repl.it/github/athenian-ct-projects/Concert-Prep-Day-JL)
