@@ -144,6 +144,7 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 ### [Medieval Day Trajectory Calculator MM '23](https://github.com/athenian-ct-projects/Medieval-Day-MD) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Medieval-Day-MD)](https://repl.it/github/athenian-ct-projects/Medieval-Day-MD)
 * This is a trajectory calculator for use with the Medieval Day catapults
 * What unit is it in? Also, how do they know the release velocity? MA
+* This should actually be in Newtonian Olympics Day. -ML
 
 ## Mock Congress Day
 
