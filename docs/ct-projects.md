@@ -57,6 +57,11 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 * This is a board game. Be sure to get the game board!
 * If I select 5 and there are only four answers, it tells me to select a new answer, but when I do, it gives a error. MA
 
+## Game Theory Day
+
+### [How to Win at (3 games) by JH '23](https://github.com/athenian-ct-projects/Game-Theory-Day-JH) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Game-Theory-Day-JH)](https://repl.it/github/athenian-ct-projects/Game-Theory-Day-JH)
+* Winning strategies for Nim, Prisoner's Dilemma and the Pirate Game
+
 ## Harry Potter Day
 
 ### [Harry Potter Trivia Game JH '23](https://github.com/athenian-ct-projects/Harry-Potter-Day-JH) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-JH)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-JH)
