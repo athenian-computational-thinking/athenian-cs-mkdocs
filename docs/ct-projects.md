@@ -71,6 +71,10 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 * There is a game board that goes with this game.
 * Can't run. Invalid syntax. MA
 
+### [Harry Potter Day RK '23](https://github.com/athenian-ct-projects/Harry-Potter-Day-RK) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-RK)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-RK)
+* A Quidditch Game for Harry Potter Day
+
+
 ## Head Games Day
 
 ### [Football Simulation for Head Games Day TG '23](https://github.com/athenian-ct-projects/Head-Games-Day-TG) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Head-Games-Day-TG)](https://repl.it/github/athenian-ct-projects/Head-Games-Day-TG)
