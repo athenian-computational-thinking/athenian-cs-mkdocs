@@ -22,6 +22,11 @@ These are programs written by the 9th grade Computational Thinking students for 
 * This is a set of four different games for Arcade Day
 * Maybe make it so that it doesn't break when I don't press what it tells me to press and just resets it? Also, on the guess a number, maybe give option to specify range? MA
 
+## Career Day
+
+### [Career Day KW '23](https://github.com/athenian-ct-projects/Career-Day-KW) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Career-Day-KW)](https://repl.it/github/athenian-ct-projects/Career-Day-KW)
+* Career quiz
+
 ## Concert Prep Day
 
 ### [Concert Prep Day Artist Monopoly JL '23](https://github.com/athenian-ct-projects/Concert-Prep-Day-JL) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Concert-Prep-Day-JL)](https://repl.it/github/athenian-ct-projects/Concert-Prep-Day-JL)
@@ -52,6 +57,11 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 * This is a board game. Be sure to get the game board!
 * If I select 5 and there are only four answers, it tells me to select a new answer, but when I do, it gives a error. MA
 
+## Game Theory Day
+
+### [How to Win at (3 games) by JH '23](https://github.com/athenian-ct-projects/Game-Theory-Day-JH) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Game-Theory-Day-JH)](https://repl.it/github/athenian-ct-projects/Game-Theory-Day-JH)
+* Winning strategies for Nim, Prisoner's Dilemma and the Pirate Game
+
 ## Harry Potter Day
 
 ### [Harry Potter Trivia Game JH '23](https://github.com/athenian-ct-projects/Harry-Potter-Day-JH) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-JH)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-JH)
@@ -71,6 +81,23 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 * There is a game board that goes with this game.
 * Can't run. Invalid syntax. MA
 
+### [Harry Potter Day RK '23](https://github.com/athenian-ct-projects/Harry-Potter-Day-RK) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-RK)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-RK)
+* A Quidditch Game for Harry Potter Day
+
+### [Harry Potter Day MG '23](https://github.com/athenian-ct-projects/Head-Games-Day-PS) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-MG)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-MG)
+* Harry Potter Hangman game
+
+
+## Head Games Day
+
+### [Head Games Day PS '23](https://github.com/athenian-ct-projects/Head-Games-Day-PS) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Head-Games-Day-PS)](https://repl.it/github/athenian-ct-projects/Head-Games-Day-PS)
+* This is a football simulation
+
+
+### [Football Simulation for Head Games Day TG '23](https://github.com/athenian-ct-projects/Head-Games-Day-TG) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Head-Games-Day-TG)](https://repl.it/github/athenian-ct-projects/Head-Games-Day-TG)
+
+
+
 ## Hero's Journey Day
 
 ### [Hero's Journey Day choose your own adventure game JG '23](https://github.com/athenian-ct-projects/Heros-Journey-Day-JG) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Heros-Journey-Day-JG)](https://repl.it/github/athenian-ct-projects/Heros-Journey-Day-JG)
@@ -89,11 +116,25 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 * edit to clean up print statements.
 * I'm not sure if having one way to win is the best option, but ok. MA
 
+### [I Can Cook Day SS '23](https://github.com/athenian-ct-projects/I-Can-Cook-Day-SS) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/I-Can-Cook-Day-SS)](https://repl.it/github/athenian-ct-projects/I-Can-Cook-Day-SS)
+* This is a cupcake game
+
 ## Island Day
 
 ### [Island Day Game SW '23](https://github.com/athenian-ct-projects/Island-Day-SW) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Island-Day-SW)](https://repl.it/github/athenian-ct-projects/Island-Day-SW)
 * This is a digital game for Island Day. No additional materials are needed.
 * Why are there infinite lives? Also, the program breaks if no number is entered. Maybe have a message saying "pick a number"? MA
+
+## It's Fair Game Day
+
+### [It's Fair Game Blackjack Game JC '23](https://github.com/maleich/Its-Fair-Game-Day-JC) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Its-Fair-Game-Day-JC)](https://repl.it/github/athenian-ct-projects/Its-Fair-Game-Day-JC)
+* This is a Blackjack game. It wasn't written specifically for It's Fair Game Day, but that seems to be the closest fit.
+
+## Language Day
+
+### [Language Day EL '23](https://github.com/athenian-ct-projects/Language-Day-EL) nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Language-Day-EL)](https://repl.it/github/athenian-ct-projects/Language-Day-EL)
+* A Spanish language activity
+* May need a timer. I saw a lot of print statements that may go by too fast without one. -ML
 
 ## Law and Order Day
 
@@ -119,6 +160,7 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 ### [Medieval Day Trajectory Calculator MM '23](https://github.com/athenian-ct-projects/Medieval-Day-MD) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Medieval-Day-MD)](https://repl.it/github/athenian-ct-projects/Medieval-Day-MD)
 * This is a trajectory calculator for use with the Medieval Day catapults
 * What unit is it in? Also, how do they know the release velocity? MA
+* This should actually be in Newtonian Olympics Day. -ML
 
 ## Mock Congress Day
 
@@ -155,6 +197,10 @@ It's essentially the ranked voting program with some functionality (and the lack
 * This is an "Oregon Trail"-type game.
 * Are there additional materials or activities? I'm not sure what I'm supposed to do. It mostly seems like a timer unless there's some method that I'm not calling. I see that there are other methods, but I don't know where they're called. MA
 
+### [Robinson Crusoe Day Game IR '23](https://github.com/athenian-ct-projects/Robinson-Crusoe-Day-IR) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Robinson-Crusoe-Day-IR)](https://repl.it/github/athenian-ct-projects/Robinson-Crusoe-Day-IR)
+* A Chhose Your Own Adventure Game
+
+
 ## Spartan Day
 
 ### [Spartan Day Program OB '23](https://github.com/athenian-ct-projects/Spartan-Day-OB) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Spartan-Day-OB)](https://repl.it/github/athenian-ct-projects/Spartan-Day-OB)
@@ -170,5 +216,21 @@ It's essentially the ranked voting program with some functionality (and the lack
 ### [West Side Story Line Learning Quiz LA '23](https://github.com/athenian-ct-projects/West-Side-Story-LA) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/West-Side-Story-LA)](https://repl.it/github/athenian-ct-projects/West-Side-Story-LA)
 * This is a game/quiz for the West Side Story focus day.
 * For some of them, even if there's no response, it moves on. I couldn't crash it. MA
+
+## ?????????
+
+### [Food Ninjas Hunting Game JC '23](https://github.com/athenian-ct-projects/Food-Ninjas-JC) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Food-Ninjas-JC)](https://repl.it/github/athenian-ct-projects/Food-Ninjas-JC)
+* Unclear what FF this is for...
+
+### [Image Search BZ '23](https://github.com/athenian-ct-projects/Image-Search-BZ) nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Image-Search-BZ)](https://repl.it/github/athenian-ct-projects/Image-Search-BZ)
+* This tool searches the internet for images and returns the links.
+
+### [Food Gathering Game AC '23](https://github.com/athenian-ct-projects/Food-Gathering-Game-AC) nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Food-Gathering-Game-AC)](https://repl.it/github/athenian-ct-projects/Food-Gathering-Game-AC)
+* This is a game involving directions and gathering food, but I'm not sure where to put it
+
+### [Fortnite game AA '23](https://github.com/athenian-ct-projects/Fortnite-AA) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Fortnite-AA)](https://repl.it/github/athenian-ct-projects/Fortnite-AA)
+* Not sure what this does or where it goes.
+
+
 
 
