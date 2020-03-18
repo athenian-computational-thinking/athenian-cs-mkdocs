@@ -225,4 +225,8 @@ It's essentially the ranked voting program with some functionality (and the lack
 ### [Image Search BZ '23](https://github.com/athenian-ct-projects/Image-Search-BZ) nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Image-Search-BZ)](https://repl.it/github/athenian-ct-projects/Image-Search-BZ)
 * This tool searches the internet for images and returns the links.
 
+### [Food Gathering Game AC '23](https://github.com/athenian-ct-projects/Food-Gathering-Game-AC) nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Food-Gathering-Game-AC)](https://repl.it/github/athenian-ct-projects/Food-Gathering-Game-AC)
+* This is a game involving directions and gathering food, but I'm not sure where to put it
+
+
 
