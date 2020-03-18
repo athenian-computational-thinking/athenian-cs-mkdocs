@@ -7,6 +7,7 @@
 ## Elements of Programming
 * Thread of control
 * [Variables](./variables)
+* Boolean Expressions
 * [Conditionals](./conditionals)
 * [Loops](./loops)
 * [Functions](./functions)
