@@ -8,6 +8,6 @@
 * Thread of control
 * [Variables](./variables)
 * [Functions](./functions)
-* Conditionals
+* [Conditionals](./conditionals)
 * Loops
 
