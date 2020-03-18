@@ -125,6 +125,11 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 * This is a digital game for Island Day. No additional materials are needed.
 * Why are there infinite lives? Also, the program breaks if no number is entered. Maybe have a message saying "pick a number"? MA
 
+## It's Fair Game Day
+
+### [It's Fair Game Blackjack Game JC '23](https://github.com/maleich/Its-Fair-Game-Day-JC) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Its-Fair-Game-Day-JC)](https://repl.it/github/athenian-ct-projects/Its-Fair-Game-Day-JC)
+* This is a Blackjack game. It wasn't written specifically for It's Fair Game Day, but that seems to be the closest fit.
+
 ## Law and Order Day
 
 ### [Law and Order Jeopary NE '23](https://github.com/athenian-ct-projects/Law-and-Order-Jeopardy-NE) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Law-and-Order-Jeopardy-NE)](https://repl.it/github/athenian-ct-projects/Law-and-Order-Jeopardy-NE)
