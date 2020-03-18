@@ -7,7 +7,7 @@
 ## Elements of Programming
 * Thread of control
 * [Variables](./variables)
-* [Functions](./functions)
 * [Conditionals](./conditionals)
-* Loops
+* [Loops](./loops)
+* [Functions](./functions)
 
