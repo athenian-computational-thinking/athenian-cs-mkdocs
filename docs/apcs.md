@@ -24,10 +24,10 @@ Build and test project with:
 
 Build uberjar file with:
 ```
-./gradlew mymain
+./gradlew myclass
 ```
 
 Run uberjar file with:
 ```
-java -jar build/libs/mymain.jar
+java -jar build/libs/myclass.jar
 ```
