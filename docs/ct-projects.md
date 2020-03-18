@@ -133,6 +133,7 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 ## Language Day
 
 ### [Language Day EL '23](https://github.com/athenian-ct-projects/Language-Day-EL) nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Language-Day-EL)](https://repl.it/github/athenian-ct-projects/Language-Day-EL)
+* A Spanish language activity
 * May need a timer. I saw a lot of print statements that may go by too fast without one. -ML
 
 ## Law and Order Day
