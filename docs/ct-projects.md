@@ -207,4 +207,10 @@ It's essentially the ranked voting program with some functionality (and the lack
 * This is a game/quiz for the West Side Story focus day.
 * For some of them, even if there's no response, it moves on. I couldn't crash it. MA
 
+## ?????????
+
+### [Food Ninjas Hunting Game JC '23](https://github.com/athenian-ct-projects/Food-Ninjas-JC) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Food-Ninjas-JC)](https://repl.it/github/athenian-ct-projects/Food-Ninjas-JC)
+* Unclear what FF this is for...
+
+
 
