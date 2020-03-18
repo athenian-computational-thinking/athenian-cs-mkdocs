@@ -191,6 +191,10 @@ It's essentially the ranked voting program with some functionality (and the lack
 * This is an "Oregon Trail"-type game.
 * Are there additional materials or activities? I'm not sure what I'm supposed to do. It mostly seems like a timer unless there's some method that I'm not calling. I see that there are other methods, but I don't know where they're called. MA
 
+### [Robinson Crusoe Day Game IR '23](https://github.com/athenian-ct-projects/Robinson-Crusoe-Day-IR) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Robinson-Crusoe-Day-IR)](https://repl.it/github/athenian-ct-projects/Robinson-Crusoe-Day-IR)
+* A Chhose Your Own Adventure Game
+
+
 ## Spartan Day
 
 ### [Spartan Day Program OB '23](https://github.com/athenian-ct-projects/Spartan-Day-OB) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Spartan-Day-OB)](https://repl.it/github/athenian-ct-projects/Spartan-Day-OB)
