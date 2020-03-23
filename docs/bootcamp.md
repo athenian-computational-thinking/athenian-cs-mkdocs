@@ -11,4 +11,4 @@
 * [Conditionals](./conditionals)
 * [Loops](./loops)
 * [Functions](./functions)
-
+* [Strings](./strings)
