@@ -26,6 +26,7 @@ These are programs written by the 9th grade Computational Thinking students for 
 
 ### [Career Day KW '23](https://github.com/athenian-ct-projects/Career-Day-KW) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Career-Day-KW)](https://repl.it/github/athenian-ct-projects/Career-Day-KW)
 * Career quiz
+* For the salary question, it has a range, but it doesn't break if the salary is out of the range. That's probably for the better though. MA
 
 ## Concert Prep Day
 
@@ -61,6 +62,7 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 
 ### [How to Win at (3 games) by JH '23](https://github.com/athenian-ct-projects/Game-Theory-Day-JH) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Game-Theory-Day-JH)](https://repl.it/github/athenian-ct-projects/Game-Theory-Day-JH)
 * Winning strategies for Nim, Prisoner's Dilemma and the Pirate Game
+* It only runs nim, but not the other two. If I choose 1 for the first number, I automatically win. If I choose a number outside of 1, 2, or 3, I can win. It also breaks if a letter is entered. MA
 
 ## Harry Potter Day
 
@@ -83,6 +85,7 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 
 ### [Harry Potter Day RK '23](https://github.com/athenian-ct-projects/Harry-Potter-Day-RK) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-RK)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-RK)
 * A Quidditch Game for Harry Potter Day
+* It would be great to see how many turns each team gets. Also, at the end, it would be good to tally the points. MA
 
 ### [Harry Potter Day MG '23](https://github.com/athenian-ct-projects/Head-Games-Day-PS) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-MG)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-MG)
 * Harry Potter Hangman game
