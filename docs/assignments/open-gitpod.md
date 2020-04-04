@@ -8,18 +8,25 @@ The workspace will contain a full Linux system.
 
 3) Read the README.md file.
 
-4) Run the MyMain program with: `make run`.
+4) Run the MyMain program with: `make run` in the console window.
 
 5) Add the appropriate code to correct the errors and run the program again.
 
-6) Run the tests with: `make tests`.
+6) Run the tests with: `make tests` in the console window.
 
 !!! hint
 
+    The up and down arrow keys will allow you to cycle through commands in the console window.
+    
+    
+!!! hint
+
     Click on the ![alt text](../images/collapse-icon.jpg "Collapse") icon in the 
-    gutter to collapse functions from this:
+    gutter to collapse function definitions from this:
     ![alt text](../images/collapse-function.jpg "Not collapsed")
+    
     to:
+    
     ![alt text](../images/collapsed.jpg "Collapsed")
 
 
