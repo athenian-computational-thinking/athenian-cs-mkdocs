@@ -1,8 +1,9 @@
 # Assignment Workflow
 
 ## Github
-We will use [Github](https://github.com) for assignments, so go to 
-Github and [create an account](https://github.com/join?source=header-home).
+You will use [Github](https://github.com) as the [source code control](https://en.wikipedia.org/wiki/Version_control) 
+system for your assignments. Each assignment will be contained in a Git repository on Github. 
+Go to Github and [create an account](https://github.com/join?source=header-home).
 
 ## Gitpod
 You will use [Gitpod](https://gitpod.io) to edit, test, and submit your assignments.
