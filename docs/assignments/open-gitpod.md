@@ -16,8 +16,8 @@ The workspace will contain a full Linux system.
 
 !!! hint
 
-    Click on the ![alt text](../images/collapse-icon.jpg "Collapse") icon to collapse 
-    functions from:
+    Click on the ![alt text](../images/collapse-icon.jpg "Collapse") icon in the 
+    gutter to collapse functions from this:
     ![alt text](../images/collapse-function.jpg "Not collapsed")
     to:
     ![alt text](../images/collapsed.jpg "Collapsed")
