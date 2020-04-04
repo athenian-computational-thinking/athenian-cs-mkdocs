@@ -9,16 +9,16 @@ on the Source Control icon on the left panel:
 3) All modified files will appear in the `Changes` section (with an M for modified):
 <br/><br/>![alt text](../images/modified-files.jpg "Modified files")<br/><br/>
 
-4) Mouseover the right of `CHANGES` and then click on the `Stage All Changes` 
-![alt text](../images/plus.jpg "Plus") icon to move the modfied files to the `Staged Changes` section:
+4) Mouseover the right of `CHANGES` and then click on the  
+![alt text](../images/plus.jpg "Plus") icon (`Stage All Changes`) to move the modfied files to the `Staged Changes` section:
 <br/><br/>![alt text](../images/stage-changes.jpg "Stage changes")<br/><br/>
 
 5) Enter a commit message in the `Message` input box and then 
 click on the checkmark to commit the modified file to the local git repo:
 <br/><br/>![alt text](../images/commit-changes.jpg "Commit changes")<br/><br/>
 
-6) Mouseover to the right of `SOURCE CONTROL...` and then click on the `More Actions...` 
-![alt text](../images/dashdashdash.jpg "DashDashDash") icon to display the Git context menu:
+6) Mouseover to the right of `SOURCE CONTROL...` and then click on the 
+![alt text](../images/dashdashdash.jpg "DashDashDash") icon (`More Actions...`) to display the Git context menu:
 <br/><br/>![alt text](../images/more-actions.jpg "More actions")<br/><br/>
 
 7) Click on the `Push` option on the Git context menu to push your changes to Github:
