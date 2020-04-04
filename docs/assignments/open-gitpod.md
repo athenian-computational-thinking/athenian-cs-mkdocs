@@ -14,6 +14,14 @@ The workspace will contain a full Linux system.
 
 6) Run the tests with: `make tests` in the console window.
 
+Failed tests will look like this:
+<br/><br/>![alt text](../images/test-failure.jpg "Test failure")<br/><br/>
+
+Successful tests will look like this:
+<br/><br/>![alt text](../images/test-success.jpg "Test success")<br/><br/>
+
+
+
 !!! hint
 
     The up and down arrow keys will allow you to cycle through commands in the console window.
