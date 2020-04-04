@@ -8,18 +8,21 @@ The workspace will contain a full Linux system.
 
 3) Read the README.md file.
 
-4) Run the MyMain program with: `make run` in the console window.
+4) Run the MyMain program with `make run` in the console window.
 
 5) Add the appropriate code to correct the errors and run the program again.
 
-6) Run the tests with: `make tests` in the console window.
+6) Run the tests with `make tests` in the console window.
 
-Failed tests will look like this:
-<br/><br/>![alt text](../images/test-failure.jpg "Test failure")<br/><br/>
+!!! failure
 
-Successful tests will look like this:
-<br/><br/>![alt text](../images/test-success.jpg "Test success")<br/><br/>
+    Failed tests will look like this:
+    <br/>![alt text](../images/test-failure.jpg "Test failure")
 
+!!! success
+
+    Successful tests will look like this:
+    <br/>![alt text](../images/test-success.jpg "Test success")<br/>
 
 
 !!! hint
