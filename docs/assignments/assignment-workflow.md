@@ -1,8 +1,8 @@
 # Assignment Workflow
 
 ## Github
-We will use Github for assignments, so go to 
-[Github}(https://github.com)] and create an account.
+We will use [Github](https://github.com) for assignments, so go to 
+Github and [create an account](https://github.com/join?source=header-home).
 
 ## Gitpod
 You will use [Gitpod](https://gitpod.io) to edit, test, and submit your assignments.
