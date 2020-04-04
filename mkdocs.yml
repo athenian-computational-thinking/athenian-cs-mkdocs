@@ -11,6 +11,12 @@ nav:
         - CodeCombat: codecombat.md
     - Athenian Summer Programs, 2020:
         - Grades 6–10 programming classes using Ruby, Python and JavaScript: https://davebsoft.com/programming-for-kids/classes/athenian/summer/2020/
+  - Assignment Workflow:
+    - Summary: assignment-workflow.md
+    - Setup Gitpod: ./assignments/setup-gitpod.md
+    - Create Assignment: ./assignments/create-assignment.md
+    - Open with Gitpod: ./assignments/open-gitpod.md
+    - Submit Assignment: ./assignments/submit-assignment.md
   - Software:
       - IDEs:
           - VS Code: https://code.visualstudio.com/download
