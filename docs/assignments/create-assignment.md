@@ -2,7 +2,8 @@
 
 1) Open the URL in your browser to accept the assignment and create an assignment repo.
 
-2) You may or may not initially see this screen. If you do, click on `Skip to the next step →`:
+2) You may or may not initially see this screen. If you do, click on `Skip to the next step` and
+advance to the next page:
 <br/><br/>![alt text](../images/select-student.jpg "Select student")<br/><br/>
 
 3) The initial assignment will require you to authorize GitHub Classroom (this will be a one-time process). 
