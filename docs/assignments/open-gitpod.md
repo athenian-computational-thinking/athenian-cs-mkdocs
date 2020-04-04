@@ -22,10 +22,13 @@ The workspace will contain a full Linux system.
 !!! hint
 
     Click on the ![alt text](../images/collapse-icon.jpg "Collapse") icon in the 
-    gutter to collapse function definitions from this:
+    gutter to collapse function definitions.
+    
+    Uncollapsed:
+
     ![alt text](../images/collapse-function.jpg "Not collapsed")
     
-    to:
+    Collapsed:
     
     ![alt text](../images/collapsed.jpg "Collapsed")
 
