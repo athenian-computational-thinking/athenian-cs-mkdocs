@@ -17,6 +17,7 @@ nav:
     - Create Assignment: ./assignments/create-assignment.md
     - Open with Gitpod: ./assignments/open-gitpod.md
     - Submit Assignment: ./assignments/submit-assignment.md
+    - Assignment Links: ./assignments/assignment-links.md
   - Software:
       - IDEs:
           - VS Code: https://code.visualstudio.com/download
