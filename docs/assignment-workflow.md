@@ -1,12 +1,17 @@
 # Assignment Workflow
 
+## Github
+We will use Github for assignments, so go to 
+[Github}(https://github.com)] and create an account.
+
+## Gitpod
 You will use [Gitpod](https://gitpod.io) to edit, test, and submit your assignments.
 To create a Gitpod account follow the instructions [here](../assignments/setup-gitpod). 
-This is a one-time action.
 
+## Assignments
 Complete an assignment by following these steps:
 
-1) You will receive an invitation URL from your teacher that will give you access to the assignment.
+1) You will receive an invitation URL from your teacher that will give you access to an assignment.
 
 2) [Create](../assignments/create-assignment) an assignment git repo.
 
