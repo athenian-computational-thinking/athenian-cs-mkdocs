@@ -17,12 +17,12 @@ The workspace will contain a full Linux system.
 !!! failure
 
     Failed tests will look like this:
-    <br/>![alt text](../images/test-failure.jpg "Test failure")
+    <br/><br/>![alt text](../images/test-failure.jpg "Test failure")
 
 !!! success
 
     Successful tests will look like this:
-    <br/>![alt text](../images/test-success.jpg "Test success")<br/>
+    <br/><br/>![alt text](../images/test-success.jpg "Test success")<br/>
 
 
 !!! hint
