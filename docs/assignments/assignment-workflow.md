@@ -20,8 +20,8 @@ Complete an assignment by following these steps:
 
 1) You will receive an invitation URL from your teacher that will give you access to an assignment.
 
-1) [Create](../../assignments/create-assignment) an assignment git repo.
+2) [Create](../../assignments/create-assignment) an assignment git repo.
 
-1) [Open](../../assignments/open-gitpod) the assignment in Gitpod.
+3) [Open](../../assignments/open-gitpod) the assignment in Gitpod.
 
-1) [Submit](../../assignments/submit-assignment) your completed assignment.
+4) [Submit](../../assignments/submit-assignment) your completed assignment.
