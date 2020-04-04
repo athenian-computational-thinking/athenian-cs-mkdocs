@@ -1,6 +1,7 @@
 # Assignment Workflow
 
 ## Github
+
 !!! important
 
     You will use [Github](https://github.com) as the [source code control](https://en.wikipedia.org/wiki/Version_control) 
@@ -8,10 +9,11 @@
     Go to Github and [create an account](https://github.com/join?source=header-home).
 
 ## Gitpod
+
 !!! important
 
     You will use [Gitpod](https://gitpod.io) to edit, test, and submit your assignments.
-    To create a Gitpod account follow the instructions [here](../../assignments/setup-gitpod). 
+    Create a Gitpod account by following these [instructions](../../assignments/setup-gitpod). 
 
 ## Assignments
 Complete an assignment by following these steps:
