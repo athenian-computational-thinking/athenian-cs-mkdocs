@@ -12,4 +12,5 @@ Click on `Authorize github`:
 4) After the assignment repo is created, click on the URL and go to assignment repo on Github:
 <br/>![alt text](../images/ready-to-go.jpg "Ready to go")<br/><br/>
 
-
+## Next: 
+[Open](../../assignments/open-gitpod) the assignment in Gitpod.

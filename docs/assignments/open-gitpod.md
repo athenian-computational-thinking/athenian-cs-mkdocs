@@ -13,3 +13,6 @@ The workspace will contain a full Linux system.
 5) Add the appropriate code to correct the errors and run the program again.
 
 6) Run the tests with: `make tests`.
+
+## Next:
+[Submit](../../assignments/submit-assignment) your completed assignment.
