@@ -1,4 +1,4 @@
-## Open the Assignment in Gitpod
+# Open the Assignment in Gitpod
 
 1) Add the prefix `gitpod.io/#` to the repo URL in the address bar of your browser with and hit return.
 <br/>![alt text](https://www.gitpod.io/static/412e666a92058d8b683423e70ec5b74b/16d34/prefix-screenshot.png "Gitpod prefix")<br/>
