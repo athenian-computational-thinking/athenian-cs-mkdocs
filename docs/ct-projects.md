@@ -26,6 +26,7 @@ These are programs written by the 9th grade Computational Thinking students for 
 
 ### [Career Day KW '23](https://github.com/athenian-ct-projects/Career-Day-KW) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Career-Day-KW)](https://repl.it/github/athenian-ct-projects/Career-Day-KW)
 * Career quiz
+* For the salary question, it has a range, but it doesn't break if the salary is out of the range. That's probably for the better though. MA
 
 ## Concert Prep Day
 
@@ -61,6 +62,7 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 
 ### [How to Win at (3 games) by JH '23](https://github.com/athenian-ct-projects/Game-Theory-Day-JH) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Game-Theory-Day-JH)](https://repl.it/github/athenian-ct-projects/Game-Theory-Day-JH)
 * Winning strategies for Nim, Prisoner's Dilemma and the Pirate Game
+* It only runs nim, but not the other two. If I choose 1 for the first number, I automatically win. If I choose a number outside of 1, 2, or 3, I can win. It also breaks if a letter is entered. MA
 
 ## Harry Potter Day
 
@@ -83,20 +85,20 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 
 ### [Harry Potter Day RK '23](https://github.com/athenian-ct-projects/Harry-Potter-Day-RK) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-RK)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-RK)
 * A Quidditch Game for Harry Potter Day
+* It would be great to see how many turns each team gets. Also, at the end, it would be good to tally the points. MA
 
 ### [Harry Potter Day MG '23](https://github.com/athenian-ct-projects/Head-Games-Day-PS) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-MG)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-MG)
 * Harry Potter Hangman game
-
+* It says what the word is at the beginning. When a letter appears twice, it doesn't have the warning. When chances == 0, it doesn't end and goes into negative. Conversely, when the word is finished, the game doesn't end. MA
 
 ## Head Games Day
 
 ### [Head Games Day PS '23](https://github.com/athenian-ct-projects/Head-Games-Day-PS) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Head-Games-Day-PS)](https://repl.it/github/athenian-ct-projects/Head-Games-Day-PS)
 * This is a football simulation
-
+* Couldn't break it. MA
 
 ### [Football Simulation for Head Games Day TG '23](https://github.com/athenian-ct-projects/Head-Games-Day-TG) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Head-Games-Day-TG)](https://repl.it/github/athenian-ct-projects/Head-Games-Day-TG)
-
-
+* Couldn't find "main.sh". MA
 
 ## Hero's Journey Day
 
@@ -118,6 +120,7 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 
 ### [I Can Cook Day SS '23](https://github.com/athenian-ct-projects/I-Can-Cook-Day-SS) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/I-Can-Cook-Day-SS)](https://repl.it/github/athenian-ct-projects/I-Can-Cook-Day-SS)
 * This is a cupcake game
+* Preferably have options as opposed to filling in whatever you want. Either that or get rid of the blank spaces if left blank. MA
 
 ## Island Day
 
@@ -129,12 +132,14 @@ nine correct will return a score of 8/10. Also, it's possible to go into negativ
 
 ### [It's Fair Game Blackjack Game JC '23](https://github.com/maleich/Its-Fair-Game-Day-JC) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Its-Fair-Game-Day-JC)](https://repl.it/github/athenian-ct-projects/Its-Fair-Game-Day-JC)
 * This is a Blackjack game. It wasn't written specifically for It's Fair Game Day, but that seems to be the closest fit.
+* Add a reminder that face cards are 10. Couldn't crash it. MA
 
 ## Language Day
 
 ### [Language Day EL '23](https://github.com/athenian-ct-projects/Language-Day-EL) nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Language-Day-EL)](https://repl.it/github/athenian-ct-projects/Language-Day-EL)
 * A Spanish language activity
 * May need a timer. I saw a lot of print statements that may go by too fast without one. -ML
+* Is it ok if left blank? It didn't crash, but it didn't ask again. MA
 
 ## Law and Order Day
 
@@ -198,8 +203,8 @@ It's essentially the ranked voting program with some functionality (and the lack
 * Are there additional materials or activities? I'm not sure what I'm supposed to do. It mostly seems like a timer unless there's some method that I'm not calling. I see that there are other methods, but I don't know where they're called. MA
 
 ### [Robinson Crusoe Day Game IR '23](https://github.com/athenian-ct-projects/Robinson-Crusoe-Day-IR) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Robinson-Crusoe-Day-IR)](https://repl.it/github/athenian-ct-projects/Robinson-Crusoe-Day-IR)
-* A Chhose Your Own Adventure Game
-
+* A Choose Your Own Adventure Game
+* If something different than the two choices is typed, it stops. It would be great if there was a message saying "pick one of the two options" instead of breaking. I like how there's only one very specific path to winning, but I'm guessing it'll be very annoying to anyone who can't see the code and can't see which choices get them killed. MA
 
 ## Spartan Day
 
@@ -221,16 +226,16 @@ It's essentially the ranked voting program with some functionality (and the lack
 
 ### [Food Ninjas Hunting Game JC '23](https://github.com/athenian-ct-projects/Food-Ninjas-JC) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Food-Ninjas-JC)](https://repl.it/github/athenian-ct-projects/Food-Ninjas-JC)
 * Unclear what FF this is for...
+* Maybe I can cook or Robinson Crusoe? In the instructions, maybe say that you can lose the catch you just killed. Couldn't crash. MA
 
 ### [Image Search BZ '23](https://github.com/athenian-ct-projects/Image-Search-BZ) nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Image-Search-BZ)](https://repl.it/github/athenian-ct-projects/Image-Search-BZ)
 * This tool searches the internet for images and returns the links.
+* Couldn't find a file. MA
 
 ### [Food Gathering Game AC '23](https://github.com/athenian-ct-projects/Food-Gathering-Game-AC) nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Food-Gathering-Game-AC)](https://repl.it/github/athenian-ct-projects/Food-Gathering-Game-AC)
 * This is a game involving directions and gathering food, but I'm not sure where to put it
+* Maybe the map day or Robinson Crusoe? Also, please get rid of the uppercase. MA
 
 ### [Fortnite game AA '23](https://github.com/athenian-ct-projects/Fortnite-AA) &nbsp; [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Fortnite-AA)](https://repl.it/github/athenian-ct-projects/Fortnite-AA)
 * Not sure what this does or where it goes.
-
-
-
-
+* For the yes or no, if I answer, it breaks. MA
