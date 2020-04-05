@@ -1,7 +1,7 @@
 # Submit completed assignment to Github
 
 1) After getting the tests to run successfully, check-in your work to Github.
-Submitting an exercise to Github is a 3 step process: `Submit`, `Commit` and `Push`
+Submitting an exercise to Github is a 3 step process: `Submit`, `Commit` and `Push`.
 
 2) Go to the Source Control view by selecting `View -> Source Control` or click 
 on the ![alt text](../images/github-icon.jpg "Source Control") icon on the left panel:
