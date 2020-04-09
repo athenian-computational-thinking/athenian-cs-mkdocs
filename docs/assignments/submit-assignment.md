@@ -26,3 +26,5 @@ click on the checkmark to commit the modified file to the local git repo:
 <br/><br/>![alt text](../images/push-commit.jpg "Push commit")<br/><br/>
 
 <br/><br/>![alt text](../images/git-test.gif "Git test")<br/><br/>
+
+<br/><br/>![alt text](../images/git-test2.gif "Git test")<br/><br/>
