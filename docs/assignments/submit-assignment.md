@@ -24,3 +24,5 @@ click on the checkmark to commit the modified file to the local git repo:
 
 7) Click on the `Push` option on the Git context menu to push your changes to Github:
 <br/><br/>![alt text](../images/push-commit.jpg "Push commit")<br/><br/>
+
+<br/><br/>![alt text](../images/git-test.gif "Git test")<br/><br/>
