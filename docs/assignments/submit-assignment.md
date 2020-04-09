@@ -4,7 +4,7 @@ After getting the tests to run successfully, check-in your work to Github.
 Submitting an exercise to Github is a 3 step process: `Submit`, `Commit` and `Push`.
 The entire process will look like this:
 
-<br/><br/>![alt text](../images/git-complete.gif "Git test")<br/><br/>
+<br/>![alt text](../images/git-complete.gif "Git test")<br/><br/>
 
 Here are the detailed steps:
 
