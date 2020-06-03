@@ -16,6 +16,7 @@
 * [git rebase in depth](https://git-rebase.io)
 * [Git basics - the only introduction you'll ever need!](https://areknawo.com/git-basics-the-only-introduction-you-will-ever-need/)
 * [Stop writing bad commit messages](https://medium.com/better-programming/stop-writing-bad-commit-messages-8df79517177d)
+* [How to Teach Git Commits & GitHub to Teenagers](https://blog.upperlinecode.com/how-to-teach-git-commits-github-to-teenagers-a3f740b2f500)
 
 ## Installation
 
