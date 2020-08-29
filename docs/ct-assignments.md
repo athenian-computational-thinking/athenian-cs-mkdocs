@@ -1,4 +1,4 @@
-# Computations Thinking Assignments
+# Computational Thinking Assignments
 
 [Student Assignments Repos](https://github.com/CT-Assignments-S20-D)
 
