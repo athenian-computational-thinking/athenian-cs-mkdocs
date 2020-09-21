@@ -7,7 +7,9 @@
 the Python plugin.
 
 ## Cloning a repo from GitHub
-* To clone a GitHub repo on your local machine using VSCode, click on `Source Control`
-on the left, then click on the `...` at the top, and then select `Clone`. Enter the URL of the 
-GitHub repo you wish to clone.
+To clone a GitHub repo on your local machine using VSCode:
+* Click on `Source Control`on the left.
+* Click on `...` at the top left.
+* Select `Clone`.
+* Enter the URL of the GitHub repo you wish to clone.
 * Try to keep all your clone repos in the same folder. Consider using `$HOME/git`.
