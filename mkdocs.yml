@@ -20,7 +20,7 @@ nav:
     - Assignment Links: ./assignments/assignment-links.md
   - Software:
       - IDEs:
-          - VS Code: https://code.visualstudio.com/download
+          - VS Code: vscode.md
           - VS Code Online: https://online.visualstudio.com/login
           - IntelliJ: https://www.jetbrains.com/idea/download/
           - PyCharm: https://www.jetbrains.com/pycharm/download
