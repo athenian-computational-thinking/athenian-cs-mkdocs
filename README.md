@@ -17,8 +17,8 @@ git clone git@github.com:athenian-computational-thinking/athenian-cs-mkdocs.git
 |:----------------------|:----------------------------------------------|
 | `make website`        | Build the website in site/                    |
 | `make clean`          | Delete site/                                  |
-| `make server`         | Start the live-reloading docs server          |
+| `make serve`         | Start the live-reloading docs server          |
 
 ## Additional Athenian Website Repos  
 * [Athenian Programming](https://github.com/athenian-robotics/athenian-robotics-mkdocs)
-* [Athenian FLL](https://github.com/athenian-fll/athenian-fll-mkdocs)
+* Athenian FLL
